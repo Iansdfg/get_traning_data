@@ -1,0 +1,391 @@
+id,time,score_val,score_max,score_min,score_avg,score_std,sentence,smile,gender,anger,contempt,disgust,fear,happiness,neutral,sadness,surprise,facial_type,tag_video_labe,tag_video_type
+Anger_1,0,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0,0,0,0.001,0.832,0.166,0,sad,Sad,0
+Anger_1,1,0.5,0.5,0.5,0.5,0,0,0.044,female,0.001,0.014,0.035,0.003,0.044,0.085,0.818,0,sad,Sad,0
+Anger_1,2,0.5,0.5,0.5,0.5,0,0,0,female,0,0.001,0,0,0,0.397,0.602,0,sad,Sad,0
+Anger_1,3,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.004,0,0,0.001,0.76,0.235,0,sad,Sad,0
+Anger_1,4,0.5,0.5,0.5,0.5,0,0,0.009,female,0,0.015,0,0,0.009,0.887,0.088,0,sad,Sad,0
+Anger_1,5,0.5,0.5,0.5,0.5,0,0,0.049,female,0,0.002,0,0.001,0.049,0.514,0.433,0.001,sad,Sad,0
+Anger_1,6,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.003,0,0,0.001,0.488,0.509,0,sad,Sad,0
+Anger_1,7,0.5,0.5,0.5,0.5,0,0,0.01,female,0,0,0,0,0.01,0.909,0.075,0.005,sad,Sad,0
+Anger_1,8,0.5,0.5,0.5,0.5,0,0,0.014,female,0,0,0,0,0.014,0.025,0.96,0,sad,Sad,0
+Anger_1,9,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.001,0,0,0.001,0.781,0.217,0,sad,Sad,0
+Anger_1,10,0.5,0.5,0.5,0.5,0,"And in the last 12 years we bought it 4 days before it was about to be closed down, we got it on October 27th 2000.",0.017,female,0,0.023,0.005,0,0.017,0.867,0.088,0,sad,Sad,0
+Anger_1,11,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.06,female,0,0.002,0,0,0.06,0.932,0.006,0,sad,Sad,0
+Anger_1,12,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.007,female,0,0,0,0,0.007,0.633,0.358,0.002,sad,Sad,0
+Anger_1,13,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.047,female,0,0,0,0,0.047,0.001,0.952,0,sad,Sad,0
+Anger_1,14,0.27,0.5,0.27,0.484666667,0.059385745,So you own is at that time were about to walk out.,0.042,female,0,0.002,0.005,0,0.042,0.553,0.397,0,sad,Sad,0
+Anger_1,15,0.5,0.5,0.27,0.485625,0.0575,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.005,0,0,0.002,0.684,0.309,0,sad,Sad,0
+Anger_1,16,0.5,0.5,0.27,0.486470588,0.055783194,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.005,female,0,0.003,0,0,0.005,0.949,0.043,0,sad,Sad,0
+Anger_1,17,0.5,0.5,0.27,0.487222222,0.05421152,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.006,female,0,0.003,0,0,0.006,0.749,0.241,0,sad,Sad,0
+Anger_1,18,0.5,0.5,0.27,0.487894737,0.052765619,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.001,0,0.001,0.002,0.499,0.497,0,sad,Sad,0
+Anger_1,19,0.5,0.5,0.27,0.4885,0.051429563,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.133,female,0,0,0,0.001,0.133,0.018,0.848,0,sad,Sad,0
+Anger_1,20,0.5,0.5,0.27,0.489047619,0.050190115,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.1,female,0,0,0,0.001,0.1,0.009,0.888,0,sad,Sad,0
+Anger_1,21,0.78,0.78,0.27,0.502272727,0.079037774,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.001,female,0.001,0,0,0.001,0.001,0.906,0.089,0.003,sad,Sad,0
+Anger_1,22,0.5,0.78,0.27,0.502173913,0.077222025,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0.184,0.815,0,sad,Sad,0
+Anger_1,23,0.5,0.78,0.27,0.502083333,0.075525934,To make it a nice place for our customers to come.,0.002,female,0,0,0,0,0.002,0.001,0.996,0,sad,Sad,0
+Anger_1,24,0.95,0.95,0.27,0.52,0.116153634,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0,1,0,sad,Sad,0
+Anger_1,25,0.95,0.95,0.27,0.536538462,0.14164582, ,0,female,0,0,0,0,0,0,1,0,sad,Neutral,0.5
+Anger_1,26,0.95,0.95,0.27,0.551851852,0.160072989, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+Anger_1,27,0.95,0.95,0.27,0.566071429,0.174171888, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+Anger_1,28,0.95,0.95,0.27,0.579310345,0.185297657, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+Anger_1,29,0.95,0.95,0.27,0.591666667,0.194246259, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+Anger_2,0,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0,0,0,0.001,0.832,0.166,0,sad,Sad,0
+Anger_2,1,0.5,0.5,0.5,0.5,0,0,0.044,female,0.001,0.014,0.035,0.003,0.044,0.085,0.818,0,sad,Sad,0
+Anger_2,2,0.5,0.5,0.5,0.5,0,0,0,female,0,0.001,0,0,0,0.397,0.602,0,sad,Sad,0
+Anger_2,3,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.004,0,0,0.001,0.76,0.235,0,sad,Sad,0
+Anger_2,4,0.5,0.5,0.5,0.5,0,0,0.009,female,0,0.015,0,0,0.009,0.887,0.088,0,sad,Sad,0
+Anger_2,5,0.5,0.5,0.5,0.5,0,0,0.049,female,0,0.002,0,0.001,0.049,0.514,0.433,0.001,sad,Sad,0
+Anger_2,6,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.003,0,0,0.001,0.488,0.509,0,sad,Sad,0
+Anger_2,7,0.5,0.5,0.5,0.5,0,0,0.01,female,0,0,0,0,0.01,0.909,0.075,0.005,sad,Sad,0
+Anger_2,8,0.5,0.5,0.5,0.5,0,0,0.014,female,0,0,0,0,0.014,0.025,0.96,0,sad,Sad,0
+Anger_2,9,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.001,0,0,0.001,0.781,0.217,0,sad,Sad,0
+Anger_2,10,0.5,0.5,0.5,0.5,0,"And in the last 12 years we bought it 4 days before it was about to be closed down, we got it on October 27th 2000.",0.017,female,0,0.023,0.005,0,0.017,0.867,0.088,0,sad,Sad,0
+Anger_2,11,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.06,female,0,0.002,0,0,0.06,0.932,0.006,0,sad,Sad,0
+Anger_2,12,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.007,female,0,0,0,0,0.007,0.633,0.358,0.002,sad,Sad,0
+Anger_2,13,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.047,female,0,0,0,0,0.047,0.001,0.952,0,sad,Sad,0
+Anger_2,14,0.27,0.5,0.27,0.484666667,0.059385745,So you own is at that time were about to walk out.,0.042,female,0,0.002,0.005,0,0.042,0.553,0.397,0,sad,Sad,0
+Anger_2,15,0.5,0.5,0.27,0.485625,0.0575,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.005,0,0,0.002,0.684,0.309,0,sad,Sad,0
+Anger_2,16,0.5,0.5,0.27,0.486470588,0.055783194,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.005,female,0,0.003,0,0,0.005,0.949,0.043,0,sad,Sad,0
+Anger_2,17,0.5,0.5,0.27,0.487222222,0.05421152,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.006,female,0,0.003,0,0,0.006,0.749,0.241,0,sad,Sad,0
+Anger_2,18,0.5,0.5,0.27,0.487894737,0.052765619,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.001,0,0.001,0.002,0.499,0.497,0,sad,Sad,0
+Anger_2,19,0.5,0.5,0.27,0.4885,0.051429563,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.133,female,0,0,0,0.001,0.133,0.018,0.848,0,sad,Sad,0
+Anger_2,20,0.5,0.5,0.27,0.489047619,0.050190115,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.1,female,0,0,0,0.001,0.1,0.009,0.888,0,sad,Sad,0
+Anger_2,21,0.78,0.78,0.27,0.502272727,0.079037774,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.001,female,0.001,0,0,0.001,0.001,0.906,0.089,0.003,sad,Sad,0
+Anger_2,22,0.5,0.78,0.27,0.502173913,0.077222025,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0.184,0.815,0,sad,Sad,0
+Anger_2,23,0.5,0.78,0.27,0.502083333,0.075525934,To make it a nice place for our customers to come.,0.002,female,0,0,0,0,0.002,0.001,0.996,0,sad,Sad,0
+Anger_2,24,0.95,0.95,0.27,0.52,0.116153634,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0,1,0,sad,Sad,0
+Anger_2,25,0.95,0.95,0.27,0.536538462,0.14164582, ,0,female,0,0,0,0,0,0,1,0,sad,Neutral,0.5
+Anger_2,26,0.95,0.95,0.27,0.551851852,0.160072989, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+Anger_2,27,0.95,0.95,0.27,0.566071429,0.174171888, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+Anger_2,28,0.95,0.95,0.27,0.579310345,0.185297657, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+Anger_2,29,0.95,0.95,0.27,0.591666667,0.194246259, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+Anger_3,0,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0,0,0,0.001,0.832,0.166,0,sad,Sad,0
+Anger_3,1,0.5,0.5,0.5,0.5,0,0,0.044,female,0.001,0.014,0.035,0.003,0.044,0.085,0.818,0,sad,Sad,0
+Anger_3,2,0.5,0.5,0.5,0.5,0,0,0,female,0,0.001,0,0,0,0.397,0.602,0,sad,Sad,0
+Anger_3,3,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.004,0,0,0.001,0.76,0.235,0,sad,Sad,0
+Anger_3,4,0.5,0.5,0.5,0.5,0,0,0.009,female,0,0.015,0,0,0.009,0.887,0.088,0,sad,Sad,0
+Anger_3,5,0.5,0.5,0.5,0.5,0,0,0.049,female,0,0.002,0,0.001,0.049,0.514,0.433,0.001,sad,Sad,0
+Anger_3,6,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.003,0,0,0.001,0.488,0.509,0,sad,Sad,0
+Anger_3,7,0.5,0.5,0.5,0.5,0,0,0.01,female,0,0,0,0,0.01,0.909,0.075,0.005,sad,Sad,0
+Anger_3,8,0.5,0.5,0.5,0.5,0,0,0.014,female,0,0,0,0,0.014,0.025,0.96,0,sad,Sad,0
+Anger_3,9,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.001,0,0,0.001,0.781,0.217,0,sad,Sad,0
+Anger_3,10,0.5,0.5,0.5,0.5,0,"And in the last 12 years we bought it 4 days before it was about to be closed down, we got it on October 27th 2000.",0.017,female,0,0.023,0.005,0,0.017,0.867,0.088,0,sad,Sad,0
+Anger_3,11,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.06,female,0,0.002,0,0,0.06,0.932,0.006,0,sad,Sad,0
+Anger_3,12,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.007,female,0,0,0,0,0.007,0.633,0.358,0.002,sad,Sad,0
+Anger_3,13,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.047,female,0,0,0,0,0.047,0.001,0.952,0,sad,Sad,0
+Anger_3,14,0.27,0.5,0.27,0.484666667,0.059385745,So you own is at that time were about to walk out.,0.042,female,0,0.002,0.005,0,0.042,0.553,0.397,0,sad,Sad,0
+Anger_3,15,0.5,0.5,0.27,0.485625,0.0575,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.005,0,0,0.002,0.684,0.309,0,sad,Sad,0
+Anger_3,16,0.5,0.5,0.27,0.486470588,0.055783194,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.005,female,0,0.003,0,0,0.005,0.949,0.043,0,sad,Sad,0
+Anger_3,17,0.5,0.5,0.27,0.487222222,0.05421152,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.006,female,0,0.003,0,0,0.006,0.749,0.241,0,sad,Sad,0
+Anger_3,18,0.5,0.5,0.27,0.487894737,0.052765619,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.001,0,0.001,0.002,0.499,0.497,0,sad,Sad,0
+Anger_3,19,0.5,0.5,0.27,0.4885,0.051429563,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.133,female,0,0,0,0.001,0.133,0.018,0.848,0,sad,Sad,0
+Anger_3,20,0.5,0.5,0.27,0.489047619,0.050190115,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.1,female,0,0,0,0.001,0.1,0.009,0.888,0,sad,Sad,0
+Anger_3,21,0.78,0.78,0.27,0.502272727,0.079037774,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.001,female,0.001,0,0,0.001,0.001,0.906,0.089,0.003,sad,Sad,0
+Anger_3,22,0.5,0.78,0.27,0.502173913,0.077222025,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0.184,0.815,0,sad,Sad,0
+Anger_3,23,0.5,0.78,0.27,0.502083333,0.075525934,To make it a nice place for our customers to come.,0.002,female,0,0,0,0,0.002,0.001,0.996,0,sad,Sad,0
+Anger_3,24,0.95,0.95,0.27,0.52,0.116153634,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0,1,0,sad,Sad,0
+Anger_3,25,0.95,0.95,0.27,0.536538462,0.14164582, ,0,female,0,0,0,0,0,0,1,0,sad,Neutral,0.5
+Anger_3,26,0.95,0.95,0.27,0.551851852,0.160072989, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+Anger_3,27,0.95,0.95,0.27,0.566071429,0.174171888, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+Anger_3,28,0.95,0.95,0.27,0.579310345,0.185297657, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+Anger_3,29,0.95,0.95,0.27,0.591666667,0.194246259, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+annoy_1,0,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0,0,0,0.001,0.832,0.166,0,sad,Sad,0
+annoy_1,1,0.5,0.5,0.5,0.5,0,0,0.044,female,0.001,0.014,0.035,0.003,0.044,0.085,0.818,0,sad,Sad,0
+annoy_1,2,0.5,0.5,0.5,0.5,0,0,0,female,0,0.001,0,0,0,0.397,0.602,0,sad,Sad,0
+annoy_1,3,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.004,0,0,0.001,0.76,0.235,0,sad,Sad,0
+annoy_1,4,0.5,0.5,0.5,0.5,0,0,0.009,female,0,0.015,0,0,0.009,0.887,0.088,0,sad,Sad,0
+annoy_1,5,0.5,0.5,0.5,0.5,0,0,0.049,female,0,0.002,0,0.001,0.049,0.514,0.433,0.001,sad,Sad,0
+annoy_1,6,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.003,0,0,0.001,0.488,0.509,0,sad,Sad,0
+annoy_1,7,0.5,0.5,0.5,0.5,0,0,0.01,female,0,0,0,0,0.01,0.909,0.075,0.005,sad,Sad,0
+annoy_1,8,0.5,0.5,0.5,0.5,0,0,0.014,female,0,0,0,0,0.014,0.025,0.96,0,sad,Sad,0
+annoy_1,9,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.001,0,0,0.001,0.781,0.217,0,sad,Sad,0
+annoy_1,10,0.5,0.5,0.5,0.5,0,"And in the last 12 years we bought it 4 days before it was about to be closed down, we got it on October 27th 2000.",0.017,female,0,0.023,0.005,0,0.017,0.867,0.088,0,sad,Sad,0
+annoy_1,11,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.06,female,0,0.002,0,0,0.06,0.932,0.006,0,sad,Sad,0
+annoy_1,12,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.007,female,0,0,0,0,0.007,0.633,0.358,0.002,sad,Sad,0
+annoy_1,13,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.047,female,0,0,0,0,0.047,0.001,0.952,0,sad,Sad,0
+annoy_1,14,0.27,0.5,0.27,0.484666667,0.059385745,So you own is at that time were about to walk out.,0.042,female,0,0.002,0.005,0,0.042,0.553,0.397,0,sad,Sad,0
+annoy_1,15,0.5,0.5,0.27,0.485625,0.0575,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.005,0,0,0.002,0.684,0.309,0,sad,Sad,0
+annoy_1,16,0.5,0.5,0.27,0.486470588,0.055783194,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.005,female,0,0.003,0,0,0.005,0.949,0.043,0,sad,Sad,0
+annoy_1,17,0.5,0.5,0.27,0.487222222,0.05421152,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.006,female,0,0.003,0,0,0.006,0.749,0.241,0,sad,Sad,0
+annoy_1,18,0.5,0.5,0.27,0.487894737,0.052765619,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.001,0,0.001,0.002,0.499,0.497,0,sad,Sad,0
+annoy_1,19,0.5,0.5,0.27,0.4885,0.051429563,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.133,female,0,0,0,0.001,0.133,0.018,0.848,0,sad,Sad,0
+annoy_1,20,0.5,0.5,0.27,0.489047619,0.050190115,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.1,female,0,0,0,0.001,0.1,0.009,0.888,0,sad,Sad,0
+annoy_1,21,0.78,0.78,0.27,0.502272727,0.079037774,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.001,female,0.001,0,0,0.001,0.001,0.906,0.089,0.003,sad,Sad,0
+annoy_1,22,0.5,0.78,0.27,0.502173913,0.077222025,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0.184,0.815,0,sad,Sad,0
+annoy_1,23,0.5,0.78,0.27,0.502083333,0.075525934,To make it a nice place for our customers to come.,0.002,female,0,0,0,0,0.002,0.001,0.996,0,sad,Sad,0
+annoy_1,24,0.95,0.95,0.27,0.52,0.116153634,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0,1,0,sad,Sad,0
+annoy_1,25,0.95,0.95,0.27,0.536538462,0.14164582, ,0,female,0,0,0,0,0,0,1,0,sad,Neutral,0.5
+annoy_1,26,0.95,0.95,0.27,0.551851852,0.160072989, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+annoy_1,27,0.95,0.95,0.27,0.566071429,0.174171888, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+annoy_1,28,0.95,0.95,0.27,0.579310345,0.185297657, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+annoy_1,29,0.95,0.95,0.27,0.591666667,0.194246259, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+annoy_3,0,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0,0,0,0.001,0.832,0.166,0,sad,Sad,0
+annoy_3,1,0.5,0.5,0.5,0.5,0,0,0.044,female,0.001,0.014,0.035,0.003,0.044,0.085,0.818,0,sad,Sad,0
+annoy_3,2,0.5,0.5,0.5,0.5,0,0,0,female,0,0.001,0,0,0,0.397,0.602,0,sad,Sad,0
+annoy_3,3,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.004,0,0,0.001,0.76,0.235,0,sad,Sad,0
+annoy_3,4,0.5,0.5,0.5,0.5,0,0,0.009,female,0,0.015,0,0,0.009,0.887,0.088,0,sad,Sad,0
+annoy_3,5,0.5,0.5,0.5,0.5,0,0,0.049,female,0,0.002,0,0.001,0.049,0.514,0.433,0.001,sad,Sad,0
+annoy_3,6,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.003,0,0,0.001,0.488,0.509,0,sad,Sad,0
+annoy_3,7,0.5,0.5,0.5,0.5,0,0,0.01,female,0,0,0,0,0.01,0.909,0.075,0.005,sad,Sad,0
+annoy_3,8,0.5,0.5,0.5,0.5,0,0,0.014,female,0,0,0,0,0.014,0.025,0.96,0,sad,Sad,0
+annoy_3,9,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.001,0,0,0.001,0.781,0.217,0,sad,Sad,0
+annoy_3,10,0.5,0.5,0.5,0.5,0,"And in the last 12 years we bought it 4 days before it was about to be closed down, we got it on October 27th 2000.",0.017,female,0,0.023,0.005,0,0.017,0.867,0.088,0,sad,Sad,0
+annoy_3,11,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.06,female,0,0.002,0,0,0.06,0.932,0.006,0,sad,Sad,0
+annoy_3,12,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.007,female,0,0,0,0,0.007,0.633,0.358,0.002,sad,Sad,0
+annoy_3,13,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.047,female,0,0,0,0,0.047,0.001,0.952,0,sad,Sad,0
+annoy_3,14,0.27,0.5,0.27,0.484666667,0.059385745,So you own is at that time were about to walk out.,0.042,female,0,0.002,0.005,0,0.042,0.553,0.397,0,sad,Sad,0
+annoy_3,15,0.5,0.5,0.27,0.485625,0.0575,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.005,0,0,0.002,0.684,0.309,0,sad,Sad,0
+annoy_3,16,0.5,0.5,0.27,0.486470588,0.055783194,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.005,female,0,0.003,0,0,0.005,0.949,0.043,0,sad,Sad,0
+annoy_3,17,0.5,0.5,0.27,0.487222222,0.05421152,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.006,female,0,0.003,0,0,0.006,0.749,0.241,0,sad,Sad,0
+annoy_3,18,0.5,0.5,0.27,0.487894737,0.052765619,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.001,0,0.001,0.002,0.499,0.497,0,sad,Sad,0
+annoy_3,19,0.5,0.5,0.27,0.4885,0.051429563,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.133,female,0,0,0,0.001,0.133,0.018,0.848,0,sad,Sad,0
+annoy_3,20,0.5,0.5,0.27,0.489047619,0.050190115,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.1,female,0,0,0,0.001,0.1,0.009,0.888,0,sad,Sad,0
+annoy_3,21,0.78,0.78,0.27,0.502272727,0.079037774,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.001,female,0.001,0,0,0.001,0.001,0.906,0.089,0.003,sad,Sad,0
+annoy_3,22,0.5,0.78,0.27,0.502173913,0.077222025,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0.184,0.815,0,sad,Sad,0
+annoy_3,23,0.5,0.78,0.27,0.502083333,0.075525934,To make it a nice place for our customers to come.,0.002,female,0,0,0,0,0.002,0.001,0.996,0,sad,Sad,0
+annoy_3,24,0.95,0.95,0.27,0.52,0.116153634,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0,1,0,sad,Sad,0
+annoy_3,25,0.95,0.95,0.27,0.536538462,0.14164582, ,0,female,0,0,0,0,0,0,1,0,sad,Neutral,0.5
+annoy_3,26,0.95,0.95,0.27,0.551851852,0.160072989, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+annoy_3,27,0.95,0.95,0.27,0.566071429,0.174171888, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+annoy_3,28,0.95,0.95,0.27,0.579310345,0.185297657, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+annoy_3,29,0.95,0.95,0.27,0.591666667,0.194246259, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+annoy_6,0,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0,0,0,0.001,0.832,0.166,0,sad,Sad,0
+annoy_6,1,0.5,0.5,0.5,0.5,0,0,0.044,female,0.001,0.014,0.035,0.003,0.044,0.085,0.818,0,sad,Sad,0
+annoy_6,2,0.5,0.5,0.5,0.5,0,0,0,female,0,0.001,0,0,0,0.397,0.602,0,sad,Sad,0
+annoy_6,3,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.004,0,0,0.001,0.76,0.235,0,sad,Sad,0
+annoy_6,4,0.5,0.5,0.5,0.5,0,0,0.009,female,0,0.015,0,0,0.009,0.887,0.088,0,sad,Sad,0
+annoy_6,5,0.5,0.5,0.5,0.5,0,0,0.049,female,0,0.002,0,0.001,0.049,0.514,0.433,0.001,sad,Sad,0
+annoy_6,6,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.003,0,0,0.001,0.488,0.509,0,sad,Sad,0
+annoy_6,7,0.5,0.5,0.5,0.5,0,0,0.01,female,0,0,0,0,0.01,0.909,0.075,0.005,sad,Sad,0
+annoy_6,8,0.5,0.5,0.5,0.5,0,0,0.014,female,0,0,0,0,0.014,0.025,0.96,0,sad,Sad,0
+annoy_6,9,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.001,0,0,0.001,0.781,0.217,0,sad,Sad,0
+annoy_6,10,0.5,0.5,0.5,0.5,0,"And in the last 12 years we bought it 4 days before it was about to be closed down, we got it on October 27th 2000.",0.017,female,0,0.023,0.005,0,0.017,0.867,0.088,0,sad,Sad,0
+annoy_6,11,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.06,female,0,0.002,0,0,0.06,0.932,0.006,0,sad,Sad,0
+annoy_6,12,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.007,female,0,0,0,0,0.007,0.633,0.358,0.002,sad,Sad,0
+annoy_6,13,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.047,female,0,0,0,0,0.047,0.001,0.952,0,sad,Sad,0
+annoy_6,14,0.27,0.5,0.27,0.484666667,0.059385745,So you own is at that time were about to walk out.,0.042,female,0,0.002,0.005,0,0.042,0.553,0.397,0,sad,Sad,0
+annoy_6,15,0.5,0.5,0.27,0.485625,0.0575,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.005,0,0,0.002,0.684,0.309,0,sad,Sad,0
+annoy_6,16,0.5,0.5,0.27,0.486470588,0.055783194,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.005,female,0,0.003,0,0,0.005,0.949,0.043,0,sad,Sad,0
+annoy_6,17,0.5,0.5,0.27,0.487222222,0.05421152,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.006,female,0,0.003,0,0,0.006,0.749,0.241,0,sad,Sad,0
+annoy_6,18,0.5,0.5,0.27,0.487894737,0.052765619,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.001,0,0.001,0.002,0.499,0.497,0,sad,Sad,0
+annoy_6,19,0.5,0.5,0.27,0.4885,0.051429563,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.133,female,0,0,0,0.001,0.133,0.018,0.848,0,sad,Sad,0
+annoy_6,20,0.5,0.5,0.27,0.489047619,0.050190115,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.1,female,0,0,0,0.001,0.1,0.009,0.888,0,sad,Sad,0
+annoy_6,21,0.78,0.78,0.27,0.502272727,0.079037774,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.001,female,0.001,0,0,0.001,0.001,0.906,0.089,0.003,sad,Sad,0
+annoy_6,22,0.5,0.78,0.27,0.502173913,0.077222025,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0.184,0.815,0,sad,Sad,0
+annoy_6,23,0.5,0.78,0.27,0.502083333,0.075525934,To make it a nice place for our customers to come.,0.002,female,0,0,0,0,0.002,0.001,0.996,0,sad,Sad,0
+annoy_6,24,0.95,0.95,0.27,0.52,0.116153634,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0,1,0,sad,Sad,0
+annoy_6,25,0.95,0.95,0.27,0.536538462,0.14164582, ,0,female,0,0,0,0,0,0,1,0,sad,Neutral,0.5
+annoy_6,26,0.95,0.95,0.27,0.551851852,0.160072989, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+annoy_6,27,0.95,0.95,0.27,0.566071429,0.174171888, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+annoy_6,28,0.95,0.95,0.27,0.579310345,0.185297657, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+annoy_6,29,0.95,0.95,0.27,0.591666667,0.194246259, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_2,0,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0,0,0,0.001,0.832,0.166,0,sad,Sad,0
+joy_2,1,0.5,0.5,0.5,0.5,0,0,0.044,female,0.001,0.014,0.035,0.003,0.044,0.085,0.818,0,sad,Sad,0
+joy_2,2,0.5,0.5,0.5,0.5,0,0,0,female,0,0.001,0,0,0,0.397,0.602,0,sad,Sad,0
+joy_2,3,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.004,0,0,0.001,0.76,0.235,0,sad,Sad,0
+joy_2,4,0.5,0.5,0.5,0.5,0,0,0.009,female,0,0.015,0,0,0.009,0.887,0.088,0,sad,Sad,0
+joy_2,5,0.5,0.5,0.5,0.5,0,0,0.049,female,0,0.002,0,0.001,0.049,0.514,0.433,0.001,sad,Sad,0
+joy_2,6,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.003,0,0,0.001,0.488,0.509,0,sad,Sad,0
+joy_2,7,0.5,0.5,0.5,0.5,0,0,0.01,female,0,0,0,0,0.01,0.909,0.075,0.005,sad,Sad,0
+joy_2,8,0.5,0.5,0.5,0.5,0,0,0.014,female,0,0,0,0,0.014,0.025,0.96,0,sad,Sad,0
+joy_2,9,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.001,0,0,0.001,0.781,0.217,0,sad,Sad,0
+joy_2,10,0.5,0.5,0.5,0.5,0,"And in the last 12 years we bought it 4 days before it was about to be closed down, we got it on October 27th 2000.",0.017,female,0,0.023,0.005,0,0.017,0.867,0.088,0,sad,Sad,0
+joy_2,11,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.06,female,0,0.002,0,0,0.06,0.932,0.006,0,sad,Sad,0
+joy_2,12,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.007,female,0,0,0,0,0.007,0.633,0.358,0.002,sad,Sad,0
+joy_2,13,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.047,female,0,0,0,0,0.047,0.001,0.952,0,sad,Sad,0
+joy_2,14,0.27,0.5,0.27,0.484666667,0.059385745,So you own is at that time were about to walk out.,0.042,female,0,0.002,0.005,0,0.042,0.553,0.397,0,sad,Sad,0
+joy_2,15,0.5,0.5,0.27,0.485625,0.0575,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.005,0,0,0.002,0.684,0.309,0,sad,Sad,0
+joy_2,16,0.5,0.5,0.27,0.486470588,0.055783194,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.005,female,0,0.003,0,0,0.005,0.949,0.043,0,sad,Sad,0
+joy_2,17,0.5,0.5,0.27,0.487222222,0.05421152,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.006,female,0,0.003,0,0,0.006,0.749,0.241,0,sad,Sad,0
+joy_2,18,0.5,0.5,0.27,0.487894737,0.052765619,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.001,0,0.001,0.002,0.499,0.497,0,sad,Sad,0
+joy_2,19,0.5,0.5,0.27,0.4885,0.051429563,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.133,female,0,0,0,0.001,0.133,0.018,0.848,0,sad,Sad,0
+joy_2,20,0.5,0.5,0.27,0.489047619,0.050190115,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.1,female,0,0,0,0.001,0.1,0.009,0.888,0,sad,Sad,0
+joy_2,21,0.78,0.78,0.27,0.502272727,0.079037774,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.001,female,0.001,0,0,0.001,0.001,0.906,0.089,0.003,sad,Sad,0
+joy_2,22,0.5,0.78,0.27,0.502173913,0.077222025,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0.184,0.815,0,sad,Sad,0
+joy_2,23,0.5,0.78,0.27,0.502083333,0.075525934,To make it a nice place for our customers to come.,0.002,female,0,0,0,0,0.002,0.001,0.996,0,sad,Sad,0
+joy_2,24,0.95,0.95,0.27,0.52,0.116153634,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0,1,0,sad,Sad,0
+joy_2,25,0.95,0.95,0.27,0.536538462,0.14164582, ,0,female,0,0,0,0,0,0,1,0,sad,Neutral,0.5
+joy_2,26,0.95,0.95,0.27,0.551851852,0.160072989, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_2,27,0.95,0.95,0.27,0.566071429,0.174171888, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_2,28,0.95,0.95,0.27,0.579310345,0.185297657, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_2,29,0.95,0.95,0.27,0.591666667,0.194246259, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_5,0,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0,0,0,0.001,0.832,0.166,0,sad,Sad,0
+joy_5,1,0.5,0.5,0.5,0.5,0,0,0.044,female,0.001,0.014,0.035,0.003,0.044,0.085,0.818,0,sad,Sad,0
+joy_5,2,0.5,0.5,0.5,0.5,0,0,0,female,0,0.001,0,0,0,0.397,0.602,0,sad,Sad,0
+joy_5,3,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.004,0,0,0.001,0.76,0.235,0,sad,Sad,0
+joy_5,4,0.5,0.5,0.5,0.5,0,0,0.009,female,0,0.015,0,0,0.009,0.887,0.088,0,sad,Sad,0
+joy_5,5,0.5,0.5,0.5,0.5,0,0,0.049,female,0,0.002,0,0.001,0.049,0.514,0.433,0.001,sad,Sad,0
+joy_5,6,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.003,0,0,0.001,0.488,0.509,0,sad,Sad,0
+joy_5,7,0.5,0.5,0.5,0.5,0,0,0.01,female,0,0,0,0,0.01,0.909,0.075,0.005,sad,Sad,0
+joy_5,8,0.5,0.5,0.5,0.5,0,0,0.014,female,0,0,0,0,0.014,0.025,0.96,0,sad,Sad,0
+joy_5,9,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.001,0,0,0.001,0.781,0.217,0,sad,Sad,0
+joy_5,10,0.5,0.5,0.5,0.5,0,"And in the last 12 years we bought it 4 days before it was about to be closed down, we got it on October 27th 2000.",0.017,female,0,0.023,0.005,0,0.017,0.867,0.088,0,sad,Sad,0
+joy_5,11,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.06,female,0,0.002,0,0,0.06,0.932,0.006,0,sad,Sad,0
+joy_5,12,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.007,female,0,0,0,0,0.007,0.633,0.358,0.002,sad,Sad,0
+joy_5,13,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.047,female,0,0,0,0,0.047,0.001,0.952,0,sad,Sad,0
+joy_5,14,0.27,0.5,0.27,0.484666667,0.059385745,So you own is at that time were about to walk out.,0.042,female,0,0.002,0.005,0,0.042,0.553,0.397,0,sad,Sad,0
+joy_5,15,0.5,0.5,0.27,0.485625,0.0575,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.005,0,0,0.002,0.684,0.309,0,sad,Sad,0
+joy_5,16,0.5,0.5,0.27,0.486470588,0.055783194,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.005,female,0,0.003,0,0,0.005,0.949,0.043,0,sad,Sad,0
+joy_5,17,0.5,0.5,0.27,0.487222222,0.05421152,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.006,female,0,0.003,0,0,0.006,0.749,0.241,0,sad,Sad,0
+joy_5,18,0.5,0.5,0.27,0.487894737,0.052765619,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.001,0,0.001,0.002,0.499,0.497,0,sad,Sad,0
+joy_5,19,0.5,0.5,0.27,0.4885,0.051429563,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.133,female,0,0,0,0.001,0.133,0.018,0.848,0,sad,Sad,0
+joy_5,20,0.5,0.5,0.27,0.489047619,0.050190115,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.1,female,0,0,0,0.001,0.1,0.009,0.888,0,sad,Sad,0
+joy_5,21,0.78,0.78,0.27,0.502272727,0.079037774,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.001,female,0.001,0,0,0.001,0.001,0.906,0.089,0.003,sad,Sad,0
+joy_5,22,0.5,0.78,0.27,0.502173913,0.077222025,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0.184,0.815,0,sad,Sad,0
+joy_5,23,0.5,0.78,0.27,0.502083333,0.075525934,To make it a nice place for our customers to come.,0.002,female,0,0,0,0,0.002,0.001,0.996,0,sad,Sad,0
+joy_5,24,0.95,0.95,0.27,0.52,0.116153634,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0,1,0,sad,Sad,0
+joy_5,25,0.95,0.95,0.27,0.536538462,0.14164582, ,0,female,0,0,0,0,0,0,1,0,sad,Neutral,0.5
+joy_5,26,0.95,0.95,0.27,0.551851852,0.160072989, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_5,27,0.95,0.95,0.27,0.566071429,0.174171888, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_5,28,0.95,0.95,0.27,0.579310345,0.185297657, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_5,29,0.95,0.95,0.27,0.591666667,0.194246259, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_7,0,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0,0,0,0.001,0.832,0.166,0,sad,Sad,0
+joy_7,1,0.5,0.5,0.5,0.5,0,0,0.044,female,0.001,0.014,0.035,0.003,0.044,0.085,0.818,0,sad,Sad,0
+joy_7,2,0.5,0.5,0.5,0.5,0,0,0,female,0,0.001,0,0,0,0.397,0.602,0,sad,Sad,0
+joy_7,3,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.004,0,0,0.001,0.76,0.235,0,sad,Sad,0
+joy_7,4,0.5,0.5,0.5,0.5,0,0,0.009,female,0,0.015,0,0,0.009,0.887,0.088,0,sad,Sad,0
+joy_7,5,0.5,0.5,0.5,0.5,0,0,0.049,female,0,0.002,0,0.001,0.049,0.514,0.433,0.001,sad,Sad,0
+joy_7,6,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.003,0,0,0.001,0.488,0.509,0,sad,Sad,0
+joy_7,7,0.5,0.5,0.5,0.5,0,0,0.01,female,0,0,0,0,0.01,0.909,0.075,0.005,sad,Sad,0
+joy_7,8,0.5,0.5,0.5,0.5,0,0,0.014,female,0,0,0,0,0.014,0.025,0.96,0,sad,Sad,0
+joy_7,9,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.001,0,0,0.001,0.781,0.217,0,sad,Sad,0
+joy_7,10,0.5,0.5,0.5,0.5,0,"And in the last 12 years we bought it 4 days before it was about to be closed down, we got it on October 27th 2000.",0.017,female,0,0.023,0.005,0,0.017,0.867,0.088,0,sad,Sad,0
+joy_7,11,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.06,female,0,0.002,0,0,0.06,0.932,0.006,0,sad,Sad,0
+joy_7,12,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.007,female,0,0,0,0,0.007,0.633,0.358,0.002,sad,Sad,0
+joy_7,13,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.047,female,0,0,0,0,0.047,0.001,0.952,0,sad,Sad,0
+joy_7,14,0.27,0.5,0.27,0.484666667,0.059385745,So you own is at that time were about to walk out.,0.042,female,0,0.002,0.005,0,0.042,0.553,0.397,0,sad,Sad,0
+joy_7,15,0.5,0.5,0.27,0.485625,0.0575,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.005,0,0,0.002,0.684,0.309,0,sad,Sad,0
+joy_7,16,0.5,0.5,0.27,0.486470588,0.055783194,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.005,female,0,0.003,0,0,0.005,0.949,0.043,0,sad,Sad,0
+joy_7,17,0.5,0.5,0.27,0.487222222,0.05421152,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.006,female,0,0.003,0,0,0.006,0.749,0.241,0,sad,Sad,0
+joy_7,18,0.5,0.5,0.27,0.487894737,0.052765619,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.001,0,0.001,0.002,0.499,0.497,0,sad,Sad,0
+joy_7,19,0.5,0.5,0.27,0.4885,0.051429563,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.133,female,0,0,0,0.001,0.133,0.018,0.848,0,sad,Sad,0
+joy_7,20,0.5,0.5,0.27,0.489047619,0.050190115,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.1,female,0,0,0,0.001,0.1,0.009,0.888,0,sad,Sad,0
+joy_7,21,0.78,0.78,0.27,0.502272727,0.079037774,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.001,female,0.001,0,0,0.001,0.001,0.906,0.089,0.003,sad,Sad,0
+joy_7,22,0.5,0.78,0.27,0.502173913,0.077222025,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0.184,0.815,0,sad,Sad,0
+joy_7,23,0.5,0.78,0.27,0.502083333,0.075525934,To make it a nice place for our customers to come.,0.002,female,0,0,0,0,0.002,0.001,0.996,0,sad,Sad,0
+joy_7,24,0.95,0.95,0.27,0.52,0.116153634,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0,1,0,sad,Sad,0
+joy_7,25,0.95,0.95,0.27,0.536538462,0.14164582, ,0,female,0,0,0,0,0,0,1,0,sad,Neutral,0.5
+joy_7,26,0.95,0.95,0.27,0.551851852,0.160072989, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_7,27,0.95,0.95,0.27,0.566071429,0.174171888, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_7,28,0.95,0.95,0.27,0.579310345,0.185297657, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_7,29,0.95,0.95,0.27,0.591666667,0.194246259, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_8,0,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0,0,0,0.001,0.832,0.166,0,sad,Sad,0
+joy_8,1,0.5,0.5,0.5,0.5,0,0,0.044,female,0.001,0.014,0.035,0.003,0.044,0.085,0.818,0,sad,Sad,0
+joy_8,2,0.5,0.5,0.5,0.5,0,0,0,female,0,0.001,0,0,0,0.397,0.602,0,sad,Sad,0
+joy_8,3,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.004,0,0,0.001,0.76,0.235,0,sad,Sad,0
+joy_8,4,0.5,0.5,0.5,0.5,0,0,0.009,female,0,0.015,0,0,0.009,0.887,0.088,0,sad,Sad,0
+joy_8,5,0.5,0.5,0.5,0.5,0,0,0.049,female,0,0.002,0,0.001,0.049,0.514,0.433,0.001,sad,Sad,0
+joy_8,6,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.003,0,0,0.001,0.488,0.509,0,sad,Sad,0
+joy_8,7,0.5,0.5,0.5,0.5,0,0,0.01,female,0,0,0,0,0.01,0.909,0.075,0.005,sad,Sad,0
+joy_8,8,0.5,0.5,0.5,0.5,0,0,0.014,female,0,0,0,0,0.014,0.025,0.96,0,sad,Sad,0
+joy_8,9,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.001,0,0,0.001,0.781,0.217,0,sad,Sad,0
+joy_8,10,0.5,0.5,0.5,0.5,0,"And in the last 12 years we bought it 4 days before it was about to be closed down, we got it on October 27th 2000.",0.017,female,0,0.023,0.005,0,0.017,0.867,0.088,0,sad,Sad,0
+joy_8,11,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.06,female,0,0.002,0,0,0.06,0.932,0.006,0,sad,Sad,0
+joy_8,12,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.007,female,0,0,0,0,0.007,0.633,0.358,0.002,sad,Sad,0
+joy_8,13,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.047,female,0,0,0,0,0.047,0.001,0.952,0,sad,Sad,0
+joy_8,14,0.27,0.5,0.27,0.484666667,0.059385745,So you own is at that time were about to walk out.,0.042,female,0,0.002,0.005,0,0.042,0.553,0.397,0,sad,Sad,0
+joy_8,15,0.5,0.5,0.27,0.485625,0.0575,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.005,0,0,0.002,0.684,0.309,0,sad,Sad,0
+joy_8,16,0.5,0.5,0.27,0.486470588,0.055783194,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.005,female,0,0.003,0,0,0.005,0.949,0.043,0,sad,Sad,0
+joy_8,17,0.5,0.5,0.27,0.487222222,0.05421152,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.006,female,0,0.003,0,0,0.006,0.749,0.241,0,sad,Sad,0
+joy_8,18,0.5,0.5,0.27,0.487894737,0.052765619,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.001,0,0.001,0.002,0.499,0.497,0,sad,Sad,0
+joy_8,19,0.5,0.5,0.27,0.4885,0.051429563,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.133,female,0,0,0,0.001,0.133,0.018,0.848,0,sad,Sad,0
+joy_8,20,0.5,0.5,0.27,0.489047619,0.050190115,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.1,female,0,0,0,0.001,0.1,0.009,0.888,0,sad,Sad,0
+joy_8,21,0.78,0.78,0.27,0.502272727,0.079037774,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.001,female,0.001,0,0,0.001,0.001,0.906,0.089,0.003,sad,Sad,0
+joy_8,22,0.5,0.78,0.27,0.502173913,0.077222025,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0.184,0.815,0,sad,Sad,0
+joy_8,23,0.5,0.78,0.27,0.502083333,0.075525934,To make it a nice place for our customers to come.,0.002,female,0,0,0,0,0.002,0.001,0.996,0,sad,Sad,0
+joy_8,24,0.95,0.95,0.27,0.52,0.116153634,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0,1,0,sad,Sad,0
+joy_8,25,0.95,0.95,0.27,0.536538462,0.14164582, ,0,female,0,0,0,0,0,0,1,0,sad,Neutral,0.5
+joy_8,26,0.95,0.95,0.27,0.551851852,0.160072989, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_8,27,0.95,0.95,0.27,0.566071429,0.174171888, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_8,28,0.95,0.95,0.27,0.579310345,0.185297657, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_8,29,0.95,0.95,0.27,0.591666667,0.194246259, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_10,0,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0,0,0,0.001,0.832,0.166,0,sad,Sad,0
+joy_10,1,0.5,0.5,0.5,0.5,0,0,0.044,female,0.001,0.014,0.035,0.003,0.044,0.085,0.818,0,sad,Sad,0
+joy_10,2,0.5,0.5,0.5,0.5,0,0,0,female,0,0.001,0,0,0,0.397,0.602,0,sad,Sad,0
+joy_10,3,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.004,0,0,0.001,0.76,0.235,0,sad,Sad,0
+joy_10,4,0.5,0.5,0.5,0.5,0,0,0.009,female,0,0.015,0,0,0.009,0.887,0.088,0,sad,Sad,0
+joy_10,5,0.5,0.5,0.5,0.5,0,0,0.049,female,0,0.002,0,0.001,0.049,0.514,0.433,0.001,sad,Sad,0
+joy_10,6,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.003,0,0,0.001,0.488,0.509,0,sad,Sad,0
+joy_10,7,0.5,0.5,0.5,0.5,0,0,0.01,female,0,0,0,0,0.01,0.909,0.075,0.005,sad,Sad,0
+joy_10,8,0.5,0.5,0.5,0.5,0,0,0.014,female,0,0,0,0,0.014,0.025,0.96,0,sad,Sad,0
+joy_10,9,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.001,0,0,0.001,0.781,0.217,0,sad,Sad,0
+joy_10,10,0.5,0.5,0.5,0.5,0,"And in the last 12 years we bought it 4 days before it was about to be closed down, we got it on October 27th 2000.",0.017,female,0,0.023,0.005,0,0.017,0.867,0.088,0,sad,Sad,0
+joy_10,11,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.06,female,0,0.002,0,0,0.06,0.932,0.006,0,sad,Sad,0
+joy_10,12,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.007,female,0,0,0,0,0.007,0.633,0.358,0.002,sad,Sad,0
+joy_10,13,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.047,female,0,0,0,0,0.047,0.001,0.952,0,sad,Sad,0
+joy_10,14,0.27,0.5,0.27,0.484666667,0.059385745,So you own is at that time were about to walk out.,0.042,female,0,0.002,0.005,0,0.042,0.553,0.397,0,sad,Sad,0
+joy_10,15,0.5,0.5,0.27,0.485625,0.0575,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.005,0,0,0.002,0.684,0.309,0,sad,Sad,0
+joy_10,16,0.5,0.5,0.27,0.486470588,0.055783194,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.005,female,0,0.003,0,0,0.005,0.949,0.043,0,sad,Sad,0
+joy_10,17,0.5,0.5,0.27,0.487222222,0.05421152,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.006,female,0,0.003,0,0,0.006,0.749,0.241,0,sad,Sad,0
+joy_10,18,0.5,0.5,0.27,0.487894737,0.052765619,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.001,0,0.001,0.002,0.499,0.497,0,sad,Sad,0
+joy_10,19,0.5,0.5,0.27,0.4885,0.051429563,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.133,female,0,0,0,0.001,0.133,0.018,0.848,0,sad,Sad,0
+joy_10,20,0.5,0.5,0.27,0.489047619,0.050190115,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.1,female,0,0,0,0.001,0.1,0.009,0.888,0,sad,Sad,0
+joy_10,21,0.78,0.78,0.27,0.502272727,0.079037774,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.001,female,0.001,0,0,0.001,0.001,0.906,0.089,0.003,sad,Sad,0
+joy_10,22,0.5,0.78,0.27,0.502173913,0.077222025,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0.184,0.815,0,sad,Sad,0
+joy_10,23,0.5,0.78,0.27,0.502083333,0.075525934,To make it a nice place for our customers to come.,0.002,female,0,0,0,0,0.002,0.001,0.996,0,sad,Sad,0
+joy_10,24,0.95,0.95,0.27,0.52,0.116153634,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0,1,0,sad,Sad,0
+joy_10,25,0.95,0.95,0.27,0.536538462,0.14164582, ,0,female,0,0,0,0,0,0,1,0,sad,Neutral,0.5
+joy_10,26,0.95,0.95,0.27,0.551851852,0.160072989, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_10,27,0.95,0.95,0.27,0.566071429,0.174171888, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_10,28,0.95,0.95,0.27,0.579310345,0.185297657, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+joy_10,29,0.95,0.95,0.27,0.591666667,0.194246259, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+sad_3,0,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0,0,0,0.001,0.832,0.166,0,sad,Sad,0
+sad_3,1,0.5,0.5,0.5,0.5,0,0,0.044,female,0.001,0.014,0.035,0.003,0.044,0.085,0.818,0,sad,Sad,0
+sad_3,2,0.5,0.5,0.5,0.5,0,0,0,female,0,0.001,0,0,0,0.397,0.602,0,sad,Sad,0
+sad_3,3,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.004,0,0,0.001,0.76,0.235,0,sad,Sad,0
+sad_3,4,0.5,0.5,0.5,0.5,0,0,0.009,female,0,0.015,0,0,0.009,0.887,0.088,0,sad,Sad,0
+sad_3,5,0.5,0.5,0.5,0.5,0,0,0.049,female,0,0.002,0,0.001,0.049,0.514,0.433,0.001,sad,Sad,0
+sad_3,6,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.003,0,0,0.001,0.488,0.509,0,sad,Sad,0
+sad_3,7,0.5,0.5,0.5,0.5,0,0,0.01,female,0,0,0,0,0.01,0.909,0.075,0.005,sad,Sad,0
+sad_3,8,0.5,0.5,0.5,0.5,0,0,0.014,female,0,0,0,0,0.014,0.025,0.96,0,sad,Sad,0
+sad_3,9,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.001,0,0,0.001,0.781,0.217,0,sad,Sad,0
+sad_3,10,0.5,0.5,0.5,0.5,0,"And in the last 12 years we bought it 4 days before it was about to be closed down, we got it on October 27th 2000.",0.017,female,0,0.023,0.005,0,0.017,0.867,0.088,0,sad,Sad,0
+sad_3,11,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.06,female,0,0.002,0,0,0.06,0.932,0.006,0,sad,Sad,0
+sad_3,12,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.007,female,0,0,0,0,0.007,0.633,0.358,0.002,sad,Sad,0
+sad_3,13,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.047,female,0,0,0,0,0.047,0.001,0.952,0,sad,Sad,0
+sad_3,14,0.27,0.5,0.27,0.484666667,0.059385745,So you own is at that time were about to walk out.,0.042,female,0,0.002,0.005,0,0.042,0.553,0.397,0,sad,Sad,0
+sad_3,15,0.5,0.5,0.27,0.485625,0.0575,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.005,0,0,0.002,0.684,0.309,0,sad,Sad,0
+sad_3,16,0.5,0.5,0.27,0.486470588,0.055783194,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.005,female,0,0.003,0,0,0.005,0.949,0.043,0,sad,Sad,0
+sad_3,17,0.5,0.5,0.27,0.487222222,0.05421152,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.006,female,0,0.003,0,0,0.006,0.749,0.241,0,sad,Sad,0
+sad_3,18,0.5,0.5,0.27,0.487894737,0.052765619,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.001,0,0.001,0.002,0.499,0.497,0,sad,Sad,0
+sad_3,19,0.5,0.5,0.27,0.4885,0.051429563,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.133,female,0,0,0,0.001,0.133,0.018,0.848,0,sad,Sad,0
+sad_3,20,0.5,0.5,0.27,0.489047619,0.050190115,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.1,female,0,0,0,0.001,0.1,0.009,0.888,0,sad,Sad,0
+sad_3,21,0.78,0.78,0.27,0.502272727,0.079037774,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.001,female,0.001,0,0,0.001,0.001,0.906,0.089,0.003,sad,Sad,0
+sad_3,22,0.5,0.78,0.27,0.502173913,0.077222025,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0.184,0.815,0,sad,Sad,0
+sad_3,23,0.5,0.78,0.27,0.502083333,0.075525934,To make it a nice place for our customers to come.,0.002,female,0,0,0,0,0.002,0.001,0.996,0,sad,Sad,0
+sad_3,24,0.95,0.95,0.27,0.52,0.116153634,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0,1,0,sad,Sad,0
+sad_3,25,0.95,0.95,0.27,0.536538462,0.14164582, ,0,female,0,0,0,0,0,0,1,0,sad,Neutral,0.5
+sad_3,26,0.95,0.95,0.27,0.551851852,0.160072989, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+sad_3,27,0.95,0.95,0.27,0.566071429,0.174171888, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+sad_3,28,0.95,0.95,0.27,0.579310345,0.185297657, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+sad_3,29,0.95,0.95,0.27,0.591666667,0.194246259, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+sad_4,0,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0,0,0,0.001,0.832,0.166,0,sad,Sad,0
+sad_4,1,0.5,0.5,0.5,0.5,0,0,0.044,female,0.001,0.014,0.035,0.003,0.044,0.085,0.818,0,sad,Sad,0
+sad_4,2,0.5,0.5,0.5,0.5,0,0,0,female,0,0.001,0,0,0,0.397,0.602,0,sad,Sad,0
+sad_4,3,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.004,0,0,0.001,0.76,0.235,0,sad,Sad,0
+sad_4,4,0.5,0.5,0.5,0.5,0,0,0.009,female,0,0.015,0,0,0.009,0.887,0.088,0,sad,Sad,0
+sad_4,5,0.5,0.5,0.5,0.5,0,0,0.049,female,0,0.002,0,0.001,0.049,0.514,0.433,0.001,sad,Sad,0
+sad_4,6,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.003,0,0,0.001,0.488,0.509,0,sad,Sad,0
+sad_4,7,0.5,0.5,0.5,0.5,0,0,0.01,female,0,0,0,0,0.01,0.909,0.075,0.005,sad,Sad,0
+sad_4,8,0.5,0.5,0.5,0.5,0,0,0.014,female,0,0,0,0,0.014,0.025,0.96,0,sad,Sad,0
+sad_4,9,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.001,0,0,0.001,0.781,0.217,0,sad,Sad,0
+sad_4,10,0.5,0.5,0.5,0.5,0,"And in the last 12 years we bought it 4 days before it was about to be closed down, we got it on October 27th 2000.",0.017,female,0,0.023,0.005,0,0.017,0.867,0.088,0,sad,Sad,0
+sad_4,11,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.06,female,0,0.002,0,0,0.06,0.932,0.006,0,sad,Sad,0
+sad_4,12,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.007,female,0,0,0,0,0.007,0.633,0.358,0.002,sad,Sad,0
+sad_4,13,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.047,female,0,0,0,0,0.047,0.001,0.952,0,sad,Sad,0
+sad_4,14,0.27,0.5,0.27,0.484666667,0.059385745,So you own is at that time were about to walk out.,0.042,female,0,0.002,0.005,0,0.042,0.553,0.397,0,sad,Sad,0
+sad_4,15,0.5,0.5,0.27,0.485625,0.0575,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.005,0,0,0.002,0.684,0.309,0,sad,Sad,0
+sad_4,16,0.5,0.5,0.27,0.486470588,0.055783194,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.005,female,0,0.003,0,0,0.005,0.949,0.043,0,sad,Sad,0
+sad_4,17,0.5,0.5,0.27,0.487222222,0.05421152,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.006,female,0,0.003,0,0,0.006,0.749,0.241,0,sad,Sad,0
+sad_4,18,0.5,0.5,0.27,0.487894737,0.052765619,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.001,0,0.001,0.002,0.499,0.497,0,sad,Sad,0
+sad_4,19,0.5,0.5,0.27,0.4885,0.051429563,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.133,female,0,0,0,0.001,0.133,0.018,0.848,0,sad,Sad,0
+sad_4,20,0.5,0.5,0.27,0.489047619,0.050190115,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.1,female,0,0,0,0.001,0.1,0.009,0.888,0,sad,Sad,0
+sad_4,21,0.78,0.78,0.27,0.502272727,0.079037774,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.001,female,0.001,0,0,0.001,0.001,0.906,0.089,0.003,sad,Sad,0
+sad_4,22,0.5,0.78,0.27,0.502173913,0.077222025,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0.184,0.815,0,sad,Sad,0
+sad_4,23,0.5,0.78,0.27,0.502083333,0.075525934,To make it a nice place for our customers to come.,0.002,female,0,0,0,0,0.002,0.001,0.996,0,sad,Sad,0
+sad_4,24,0.95,0.95,0.27,0.52,0.116153634,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0,1,0,sad,Sad,0
+sad_4,25,0.95,0.95,0.27,0.536538462,0.14164582, ,0,female,0,0,0,0,0,0,1,0,sad,Neutral,0.5
+sad_4,26,0.95,0.95,0.27,0.551851852,0.160072989, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+sad_4,27,0.95,0.95,0.27,0.566071429,0.174171888, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+sad_4,28,0.95,0.95,0.27,0.579310345,0.185297657, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
+sad_4,29,0.95,0.95,0.27,0.591666667,0.194246259, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5
