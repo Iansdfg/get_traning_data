@@ -54,6 +54,12 @@ for id_ in id_list:
                 'tag_video_type':0,
         }
 
+# print(id_to_times['sad_3'])
+# for key in id_to_times:
+#     # print(key,id_to_times[key])
+#     for sec_key in id_to_times[key]:
+#         print(key,sec_key )
+
 with open('get_senti_csv.csv') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
     count = 0
@@ -122,39 +128,52 @@ with open('tag_video_to_csv.csv') as csvfile:
 
         # print(id_to_times[faical_id][faical_time-1])
 
+
 res = []
-for key_id in id_to_times:
-    for key_sec in time_to_data:
-        time_to_data[key_sec]['id'] = key_id
-        # print(key_id, key_sec, time_to_data[key_sec])
-        data = {
-                'id': key_id,
-                'time': time_to_data[key_sec]['time'],
-                # senti
-                'score_val':time_to_data[key_sec]['score_val'],
-                'score_max':time_to_data[key_sec]['score_max'],
-                'score_min':time_to_data[key_sec]['score_min'],
-                'score_avg':time_to_data[key_sec]['score_avg'],
-                'score_std':time_to_data[key_sec]['score_std'],
-                'sentence':time_to_data[key_sec]['sentence'],
-                # facial
-                'smile':time_to_data[key_sec]['smile'],
-                'gender':time_to_data[key_sec]['gender'],
-                'anger':time_to_data[key_sec]['anger'],
-                'contempt':time_to_data[key_sec]['contempt'],
-                'disgust':time_to_data[key_sec]['disgust'],
-                'fear':time_to_data[key_sec]['fear'],
-                'happiness':time_to_data[key_sec]['happiness'],
-                'neutral':time_to_data[key_sec]['neutral'],
-                'sadness':time_to_data[key_sec]['sadness'],
-                'surprise':time_to_data[key_sec]['surprise'],
-                'facial_type':time_to_data[key_sec]['facial_type'],
-                # tag
-                'tag_video_labe':time_to_data[key_sec]['tag_video_labe'],
-                'tag_video_type':time_to_data[key_sec]['tag_video_type'],
-        }
-        # print(data)
-        res.append(data)
+# print(id_to_times['sad_3'])
+for key in id_to_times:
+    # print(key,id_to_times[key])
+    for sec_key in id_to_times[key]:
+        # print(key,sec_key, id_to_times[key][sec_key] )
+        # print(id_to_times[key][sec_key])
+        res.append(id_to_times[key][sec_key])
+
+for row in res:
+    print(row)
+
+
+# for key_id in id_to_times:
+#     for key_sec in time_to_data:
+#         time_to_data[key_sec]['id'] = key_id
+#         # print(key_id, key_sec, time_to_data[key_sec])
+#         data = {
+#                 'id': key_id,
+#                 'time': time_to_data[key_sec]['time'],
+#                 # senti
+#                 'score_val':time_to_data[key_sec]['score_val'],
+#                 'score_max':time_to_data[key_sec]['score_max'],
+#                 'score_min':time_to_data[key_sec]['score_min'],
+#                 'score_avg':time_to_data[key_sec]['score_avg'],
+#                 'score_std':time_to_data[key_sec]['score_std'],
+#                 'sentence':time_to_data[key_sec]['sentence'],
+#                 # facial
+#                 'smile':time_to_data[key_sec]['smile'],
+#                 'gender':time_to_data[key_sec]['gender'],
+#                 'anger':time_to_data[key_sec]['anger'],
+#                 'contempt':time_to_data[key_sec]['contempt'],
+#                 'disgust':time_to_data[key_sec]['disgust'],
+#                 'fear':time_to_data[key_sec]['fear'],
+#                 'happiness':time_to_data[key_sec]['happiness'],
+#                 'neutral':time_to_data[key_sec]['neutral'],
+#                 'sadness':time_to_data[key_sec]['sadness'],
+#                 'surprise':time_to_data[key_sec]['surprise'],
+#                 'facial_type':time_to_data[key_sec]['facial_type'],
+#                 # tag
+#                 'tag_video_labe':time_to_data[key_sec]['tag_video_labe'],
+#                 'tag_video_type':time_to_data[key_sec]['tag_video_type'],
+#         }
+#         # print(data)
+#         res.append(data)
         
 
 # for row in res:

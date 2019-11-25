@@ -1,0 +1,886 @@
+id,time,score_val,score_max,score_min,score_avg,score_std,sentence,smile,gender,anger,contempt,disgust,fear,happiness,neutral,sadness,surprise,facial_type,tag_video_labe,tag_video_type,id
+Anger_1,0,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,1,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,2,0.5,0.5,0.5,0.5,0,Cookie here Kevin.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,3,0.5,0.5,0.5,0.5,0,You know it's day after day of the same old ****.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,4,0.5,0.5,0.5,0.5,0,You know it's day after day of the same old ****.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,5,0.5,0.5,0.5,0.5,0,You know it's day after day of the same old ****.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,6,0.27,0.5,0.27,0.467142857,0.086931829,You know it's day after day of the same old ****.,0.411,male,0.034,0.002,0.004,0,0.411,0.542,0.002,0.004,angry,Angry,0,Anger_1
+Anger_1,7,0.5,0.5,0.27,0.47125,0.08131728,Fuqing drive here drive their ******* traffic here traffic ******* bear looking traffic everywhere. You know 'cause. We gotta do something about this.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,8,0.5,0.5,0.27,0.474444444,0.076666667,Fuqing drive here drive their ******* traffic here traffic ******* bear looking traffic everywhere. You know 'cause. We gotta do something about this.,0.823,male,0,0.001,0,0,0.823,0.172,0.003,0,angry,Neutral,0.5,Anger_1
+Anger_1,9,0.5,0.5,0.27,0.477,0.072732386,Fuqing drive here drive their ******* traffic here traffic ******* bear looking traffic everywhere. You know 'cause. We gotta do something about this.,0.713,male,0.088,0.001,0.002,0.001,0.713,0.191,0.001,0.003,angry,Neutral,0.5,Anger_1
+Anger_1,10,0.5,0.5,0.27,0.479090909,0.069347609,Fuqing drive here drive their ******* traffic here traffic ******* bear looking traffic everywhere. You know 'cause. We gotta do something about this.,0.012,male,0.447,0.001,0.007,0,0.012,0.531,0.001,0.001,angry,Neutral,0.5,Anger_1
+Anger_1,11,0.5,0.5,0.27,0.480833333,0.066395281,Fuqing drive here drive their ******* traffic here traffic ******* bear looking traffic everywhere. You know 'cause. We gotta do something about this.,0.375,male,0.614,0,0.004,0,0.375,0.005,0,0.001,angry,Neutral,0.5,Anger_1
+Anger_1,12,0.5,0.5,0.27,0.482307692,0.063790523,Fuqing drive here drive their ******* traffic here traffic ******* bear looking traffic everywhere. You know 'cause. We gotta do something about this.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,13,0.5,0.5,0.27,0.483571429,0.061470086,Fuqing drive here drive their ******* traffic here traffic ******* bear looking traffic everywhere. You know 'cause. We gotta do something about this.,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,14,0.5,0.5,0.27,0.484666667,0.059385745,Fuqing drive here drive their ******* traffic here traffic ******* bear looking traffic everywhere. You know 'cause. We gotta do something about this.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,15,0.5,0.5,0.27,0.485625,0.0575,Fuqing drive here drive their ******* traffic here traffic ******* bear looking traffic everywhere. You know 'cause. We gotta do something about this.,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,16,0.5,0.5,0.27,0.486470588,0.055783194,Fuqing drive here drive their ******* traffic here traffic ******* bear looking traffic everywhere. You know 'cause. We gotta do something about this.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,17,0.5,0.5,0.27,0.487222222,0.05421152,Fuqing drive here drive their ******* traffic here traffic ******* bear looking traffic everywhere. You know 'cause. We gotta do something about this.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,18,0.5,0.5,0.27,0.487894737,0.052765619,Fuqing drive here drive their ******* traffic here traffic ******* bear looking traffic everywhere. You know 'cause. We gotta do something about this.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,19,0.11,0.5,0.11,0.469,0.098883238,Fuqing drive here drive their ******* traffic here traffic ******* bear looking traffic everywhere. You know 'cause. We gotta do something about this.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,20,0.5,0.5,0.11,0.47047619,0.096616572,We gotta get right Kevin We gotta get right.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,21,0.5,0.5,0.11,0.471818182,0.09449799,We gotta get right Kevin We gotta get right.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,22,0.24,0.5,0.11,0.46173913,0.104213599,We gotta get right Kevin We gotta get right.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,23,0.5,0.5,0.11,0.463333333,0.102221697,This is what you gotta do capital local gonna have local turn up cabin.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,24,0.5,0.5,0.11,0.4648,0.100337763,This is what you gotta do capital local gonna have local turn up cabin.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,25,0.5,0.5,0.11,0.466153846,0.098552602,This is what you gotta do capital local gonna have local turn up cabin.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,26,0.5,0.5,0.11,0.467407407,0.096858048,This is what you gotta do capital local gonna have local turn up cabin.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,27,0.5,0.5,0.11,0.468571429,0.095246825,Talking pocket back Kevin.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,28,0.93,0.93,0.11,0.484482759,0.126845975,Talking pocket back Kevin.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,29,0.5,0.93,0.11,0.485,0.124671983,Unload on these niggaz Kevin Unload.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,30,0.5,0.93,0.11,0.485483871,0.122606109,Unload on these niggaz Kevin Unload.,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,31,0.5,0.93,0.11,0.4859375,0.120639676,Unload on these niggaz Kevin Unload.,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,32,0.13,0.93,0.11,0.475151515,0.133933781,Unload on these niggaz Kevin Unload.,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,33,0.13,0.93,0.11,0.465,0.144563083, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,34,0.13,0.93,0.11,0.455428571,0.1532653, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,35,0.13,0.93,0.11,0.446388889,0.160501941, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,36,0.13,0.93,0.11,0.437837838,0.166585566, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,37,0.13,0.93,0.11,0.429736842,0.171739697, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,38,0.13,0.93,0.11,0.422051282,0.176130626, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,39,0.13,0.93,0.11,0.41475,0.179885826, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,40,0.13,0.93,0.11,0.407804878,0.183105328, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,41,0.13,0.93,0.11,0.401190476,0.185869117, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,42,0.13,0.93,0.11,0.394883721,0.188242145, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,43,0.13,0.93,0.11,0.388863636,0.190277837, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,44,0.13,0.93,0.11,0.383111111,0.192020622, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,45,0.13,0.93,0.11,0.377608696,0.193507792, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,46,0.13,0.93,0.11,0.372340426,0.194770911, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,47,0.13,0.93,0.11,0.367291667,0.195836879, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,48,0.13,0.93,0.11,0.36244898,0.196728775, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,49,0.13,0.93,0.11,0.3578,0.197466505, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,50,0.13,0.93,0.11,0.353333333,0.198067329, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,51,0.13,0.93,0.11,0.349038462,0.198546282, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,52,0.13,0.93,0.11,0.34490566,0.198916514, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,53,0.13,0.93,0.11,0.340925926,0.19918957, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,54,0.13,0.93,0.11,0.337090909,0.199375625, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,Anger_1
+Anger_1,55,0.13,0.93,0.11,0.333392857,0.199483668, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,56,0.13,0.93,0.11,0.329824561,0.199521671, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,57,0.13,0.93,0.11,0.32637931,0.19949672, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_1
+Anger_1,58,0.13,0.93,0.11,0.323050847,0.19941513, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0,Anger_1
+Anger_2,0,0,0,0,0,0,0,0,female,0,0,0,0,0,0.997,0.003,0.001,angry,Neutral,0.5,Anger_2
+Anger_2,1,0,0,0,0,0,0,0,male,0.001,0,0,0,0,0.998,0.001,0,angry,Neutral,0.5,Anger_2
+Anger_2,2,0,0,0,0,0,0,0.266,male,0,0,0,0,0.266,0.002,0.732,0,angry,Angry,0,Anger_2
+Anger_2,3,0,0,0,0,0,0,0.008,male,0,0.001,0,0,0.008,0.292,0.699,0,angry,Angry,0,Anger_2
+Anger_2,4,0,0,0,0,0,0,0.084,male,0,0.036,0,0,0.084,0.739,0.14,0,angry,Neutral,0.5,Anger_2
+Anger_2,5,0,0,0,0,0,0,0.002,female,0,0,0,0,0.002,0.919,0.077,0.001,angry,Angry,0,Anger_2
+Anger_2,6,0,0,0,0,0,0,0.005,male,0,0,0,0,0.005,0.551,0.444,0,angry,Neutral,0.5,Anger_2
+Anger_2,7,0,0,0,0,0,0,0.028,male,0,0,0,0,0.028,0.478,0.494,0,angry,Angry,0,Anger_2
+Anger_2,8,0,0,0,0,0,0,0.02,male,0,0,0,0,0.02,0.55,0.43,0,angry,Angry,0,Anger_2
+Anger_2,9,0,0,0,0,0,0,0.026,male,0,0,0,0,0.026,0.08,0.893,0,angry,Angry,0,Anger_2
+Anger_2,10,0,0,0,0,0,0,0.579,male,0,0.006,0,0,0.579,0.219,0.196,0,angry,Angry,0,Anger_2
+Anger_2,11,0,0,0,0,0,0,0.045,female,0,0.002,0,0,0.045,0.861,0.092,0,angry,Neutral,0.5,Anger_2
+Anger_2,12,0,0,0,0,0,0,0.003,male,0,0,0,0,0.003,0.992,0.002,0.004,angry,Neutral,0.5,Anger_2
+Anger_2,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_2
+Anger_2,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_2
+Anger_2,15,0,0,0,0,0,0,0.001,female,0,0,0,0,0.001,0.825,0,0.174,angry,Neutral,0.5,Anger_2
+Anger_2,16,0,0,0,0,0,0,0,female,0,0,0,0,0,0.993,0.002,0.005,angry,Neutral,0,Anger_2
+Anger_3,0,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,1,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,2,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,3,0.5,0.5,0.5,0.5,0,0,0.002,male,0.268,0.003,0.006,0.337,0.002,0.021,0.002,0.362,angry,Anger,0,Anger_3
+Anger_3,4,0.5,0.5,0.5,0.5,0,0,0.001,male,0.173,0.013,0.006,0.124,0.001,0.1,0.001,0.583,angry,Anger,0,Anger_3
+Anger_3,5,0.1,0.5,0.1,0.433333333,0.163299316,Anger hostility towards the opposition.,0,male,0.014,0.002,0.001,0.094,0,0.232,0.002,0.656,angry,Anger,0,Anger_3
+Anger_3,6,0.5,0.5,0.1,0.442857143,0.151185789,Anger hostility towards the opposition.,0.001,male,0.058,0.003,0.001,0.195,0.001,0.316,0.003,0.424,angry,Anger,0,Anger_3
+Anger_3,7,0.5,0.5,0.1,0.45,0.141421356,Anger hostility towards the opposition.,0,male,0.058,0.001,0.001,0.137,0,0.21,0.002,0.592,angry,Anger,0,Anger_3
+Anger_3,8,0.1,0.5,0.1,0.411111111,0.176383421,Anger hostility towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,9,0.5,0.5,0.1,0.42,0.168654809,Anger hostility towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,10,0.5,0.5,0.1,0.427272727,0.161807967,Anger hostility towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,11,0.1,0.5,0.1,0.4,0.180906807,Anger hostility towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,12,0.5,0.5,0.1,0.407692308,0.175411604,Anger hostility towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,13,0.5,0.5,0.1,0.414285714,0.170326125,Anger hostility towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,14,0.1,0.5,0.1,0.393333333,0.183095083,Anger hostility towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,15,0.5,0.5,0.1,0.4,0.178885438,Anger hostility towards the opposition anger hostility towards the opposition anger hostility towards the opposition anger towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,16,0.5,0.5,0.1,0.405882353,0.174894926,Anger hostility towards the opposition anger hostility towards the opposition anger hostility towards the opposition anger towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,17,0.5,0.5,0.1,0.411111111,0.171117053,Anger hostility towards the opposition anger hostility towards the opposition anger hostility towards the opposition anger towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,18,0.5,0.5,0.1,0.415789474,0.167541563,Anger hostility towards the opposition anger hostility towards the opposition anger hostility towards the opposition anger towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,19,0.5,0.5,0.1,0.42,0.164156536,Anger hostility towards the opposition anger hostility towards the opposition anger hostility towards the opposition anger towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,20,0.5,0.5,0.1,0.423809524,0.160949563,Anger hostility towards the opposition anger hostility towards the opposition anger hostility towards the opposition anger towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,21,0.5,0.5,0.1,0.427272727,0.157908407,Anger hostility towards the opposition anger hostility towards the opposition anger hostility towards the opposition anger towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,22,0.5,0.5,0.1,0.430434783,0.155021355,Anger hostility towards the opposition anger hostility towards the opposition anger hostility towards the opposition anger towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,23,0.5,0.5,0.1,0.433333333,0.152277398,Anger hostility towards the opposition anger hostility towards the opposition anger hostility towards the opposition anger towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,24,0.5,0.5,0.1,0.436,0.149666295,Anger hostility towards the opposition anger hostility towards the opposition anger hostility towards the opposition anger towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,25,0.5,0.5,0.1,0.438461538,0.147178594,Anger hostility towards the opposition anger hostility towards the opposition anger hostility towards the opposition anger towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,26,0.08,0.5,0.08,0.425185185,0.159960821,Anger hostility towards the opposition anger hostility towards the opposition anger hostility towards the opposition anger towards the opposition.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,27,0.08,0.5,0.08,0.412857143,0.169985994, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,28,0.08,0.5,0.08,0.40137931,0.17799928, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,29,0.08,0.5,0.08,0.390666667,0.184483124, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,30,0.08,0.5,0.08,0.380645161,0.18977066, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,31,0.08,0.5,0.08,0.37125,0.194102567, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,32,0.08,0.5,0.08,0.362424242,0.197658644, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,33,0.08,0.5,0.08,0.354117647,0.200576709, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,34,0.08,0.5,0.08,0.346285714,0.202964583, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,35,0.08,0.5,0.08,0.338888889,0.204908032, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,36,0.08,0.5,0.08,0.331891892,0.206476227, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,37,0.08,0.5,0.08,0.325263158,0.20772561, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,38,0.08,0.5,0.08,0.318974359,0.208702696, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,39,0.08,0.5,0.08,0.313,0.209446156, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,40,0.08,0.5,0.08,0.307317073,0.209988385, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,41,0.08,0.5,0.08,0.301904762,0.210356702, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,42,0.08,0.5,0.08,0.296744186,0.210574282, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,43,0.08,0.5,0.08,0.291818182,0.210660895, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,44,0.08,0.5,0.08,0.287111111,0.210633484, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,45,0.08,0.5,0.08,0.282608696,0.210506635, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,46,0.08,0.5,0.08,0.278297872,0.210292955, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,47,0.08,0.5,0.08,0.274166667,0.210003377, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,48,0.08,0.5,0.08,0.270204082,0.20964742, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,49,0.08,0.5,0.08,0.2664,0.209233392, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,50,0.08,0.5,0.08,0.262745098,0.208768565, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,51,0.08,0.5,0.08,0.259230769,0.208259323, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,52,0.08,0.5,0.08,0.255849057,0.207711282, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,53,0.08,0.5,0.08,0.252592593,0.207129393, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,54,0.08,0.5,0.08,0.249454545,0.206518031, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,55,0.08,0.5,0.08,0.246428571,0.205881065, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,56,0.08,0.5,0.08,0.243508772,0.205221929, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,57,0.08,0.5,0.08,0.240689655,0.204543669, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,58,0.08,0.5,0.08,0.237966102,0.203848995, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,59,0.08,0.5,0.08,0.235333333,0.203140318, ,0.16,female,0.001,0.002,0,0,0.16,0.834,0.001,0.002,angry,Anger,0,Anger_3
+Anger_3,60,0.08,0.5,0.08,0.232786885,0.202419788, ,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,Anger_3
+Anger_3,61,0.08,0.5,0.08,0.230322581,0.201689322, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,62,0.08,0.5,0.08,0.227936508,0.200950634, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,63,0.08,0.5,0.08,0.225625,0.200205252, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,64,0.08,0.5,0.08,0.223384615,0.199454545, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,65,0.08,0.5,0.08,0.221212121,0.198699736, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,66,0.08,0.5,0.08,0.219104478,0.197941921, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,67,0.08,0.5,0.08,0.217058824,0.19718208, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,68,0.08,0.5,0.08,0.215072464,0.19642109, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,69,0.08,0.5,0.08,0.213142857,0.195659738, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,70,0.08,0.5,0.08,0.211267606,0.194898725, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,71,0.08,0.5,0.08,0.209444444,0.194138682, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,72,0.08,0.5,0.08,0.207671233,0.193380171, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,73,0.08,0.5,0.08,0.205945946,0.192623694, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,74,0.08,0.5,0.08,0.204266667,0.191869701, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,75,0.08,0.5,0.08,0.202631579,0.191118591, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,76,0.08,0.5,0.08,0.201038961,0.190370722, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,77,0.08,0.5,0.08,0.199487179,0.189626409, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,78,0.08,0.5,0.08,0.197974684,0.188885936, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,79,0.08,0.5,0.08,0.1965,0.18814955, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,80,0.08,0.5,0.08,0.195061728,0.187417472, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,81,0.08,0.5,0.08,0.193658537,0.186689894, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,82,0.08,0.5,0.08,0.192289157,0.185966987, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,83,0.08,0.5,0.08,0.190952381,0.185248898, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,84,0.08,0.5,0.08,0.189647059,0.184535756, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,85,0.08,0.5,0.08,0.188372093,0.183827672, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,86,0.08,0.5,0.08,0.187126437,0.183124739, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,87,0.08,0.5,0.08,0.185909091,0.182427037, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,88,0.08,0.5,0.08,0.184719101,0.181734634, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+Anger_3,89,0.08,0.5,0.08,0.183555556,0.181047583, ,0,0,0,0,0,0,0,0,0,0,angry,Anger,0,Anger_3
+annoy_1,0,0.5,0.5,0.5,0.5,0,0,0.007,male,0.002,0.002,0,0,0.007,0.864,0.125,0,angry,Neutral,0.5,annoy_1
+annoy_1,1,0.5,0.5,0.5,0.5,0,0,0.597,male,0,0,0,0.001,0.597,0.377,0.007,0.018,angry,Neutral,0.5,annoy_1
+annoy_1,2,0.5,0.5,0.5,0.5,0,0,0.007,male,0,0.001,0,0,0.007,0.905,0.083,0.003,angry,Neutral,0.5,annoy_1
+annoy_1,3,0.8,0.8,0.5,0.575,0.15,Here drive investigating the new object.,0,male,0,0,0,0,0,0.548,0.452,0,angry,Neutral,0.5,annoy_1
+annoy_1,4,0.5,0.8,0.5,0.56,0.134164079,Cubix Cube.,0,female,0.001,0,0,0.005,0,0.098,0.004,0.892,angry,Neutral,0.5,annoy_1
+annoy_1,5,0.5,0.8,0.5,0.55,0.122474487,Cubix Cube.,0,male,0,0,0,0,0,0.439,0.561,0,angry,Neutral,0.5,annoy_1
+annoy_1,6,0.5,0.8,0.5,0.542857143,0.113389342,I'm going to quit doing the accent now 'cause it sounds really silly.,0,male,0.001,0,0,0,0,0.242,0,0.757,angry,Neutral,0.5,annoy_1
+annoy_1,7,0.5,0.8,0.5,0.5375,0.106066017,I'm going to quit doing the accent now 'cause it sounds really silly.,0.187,female,0,0,0,0.079,0.187,0.004,0.569,0.161,angry,Neutral,0.5,annoy_1
+annoy_1,8,0.5,0.8,0.5,0.533333333,0.1,I'm going to quit doing the accent now 'cause it sounds really silly.,0.954,male,0,0,0,0,0.954,0.021,0.001,0.023,angry,Neutral,0.5,annoy_1
+annoy_1,9,0.5,0.8,0.5,0.53,0.09486833,I'm going to quit doing the accent now 'cause it sounds really silly.,0.947,female,0,0,0,0,0.947,0.032,0.002,0.018,angry,Angry,0,annoy_1
+annoy_1,10,0.81,0.81,0.5,0.555454545,0.123398836,I'm going to quit doing the accent now 'cause it sounds really silly.,0.022,female,0.29,0,0.089,0.003,0.022,0.105,0.488,0.002,angry,Angry,0,annoy_1
+annoy_1,11,0.5,0.81,0.5,0.550833333,0.118740231,I'm gonna show you how to?,0,male,0.257,0.019,0.54,0,0,0.139,0.045,0,angry,Angry,0,annoy_1
+annoy_1,12,0.5,0.81,0.5,0.546923077,0.114555999,I'm gonna show you how to?,0,male,0,0,0,0,0,0.501,0.497,0.001,angry,Neutral,0.5,annoy_1
+annoy_1,13,0.5,0.81,0.5,0.543571429,0.110774,I'm gonna show you how to?,0.004,female,0.015,0,0.002,0.165,0.004,0.155,0.037,0.621,angry,Neutral,0.5,annoy_1
+annoy_1,14,0.5,0.81,0.5,0.540666667,0.107335699,I'm gonna show you how to?,0.004,male,0.002,0.001,0,0.001,0.004,0.869,0.122,0.001,angry,Neutral,0.5,annoy_1
+annoy_1,15,0.82,0.82,0.5,0.558125,0.125018332,I'm gonna show you how to?,0.008,male,0.001,0.003,0,0.001,0.008,0.966,0.02,0.001,angry,Neutral,0.5,annoy_1
+annoy_1,16,0.5,0.82,0.5,0.554705882,0.12186661,Not solve one of these.,0,male,0,0,0,0.001,0,0.935,0.012,0.052,angry,Neutral,0.5,annoy_1
+annoy_1,17,0.5,0.82,0.5,0.551666667,0.118929045,Not solve one of these.,0.002,male,0,0,0.001,0.002,0.002,0.514,0.473,0.008,angry,Neutral,0.5,annoy_1
+annoy_1,18,0.5,0.82,0.5,0.548947368,0.116184467,Not solve one of these.,0.004,male,0,0,0.001,0,0.004,0.516,0.477,0.002,angry,Angry,0,annoy_1
+annoy_1,19,0.83,0.83,0.5,0.563,0.129375016,Not solve one of these.,0,male,0,0,0,0,0,0.542,0.458,0,angry,Angry,0,annoy_1
+annoy_1,20,0.5,0.83,0.5,0.56,0.126846364,I think my roommate why would you make it like they making paper 100 French created going up.,0,male,0.011,0,0.001,0.001,0,0.584,0.4,0.002,angry,Angry,0,annoy_1
+annoy_1,21,0.5,0.83,0.5,0.557272727,0.124448567,I think my roommate why would you make it like they making paper 100 French created going up.,0.007,male,0.048,0.006,0.196,0.002,0.007,0.404,0.33,0.008,angry,Angry,0,annoy_1
+annoy_1,22,0.5,0.83,0.5,0.554782609,0.122172366,I think my roommate why would you make it like they making paper 100 French created going up.,0,male,0,0,0,0,0,0.529,0.471,0,angry,Angry,0,annoy_1
+annoy_1,23,0.5,0.83,0.5,0.5525,0.120009058,I think my roommate why would you make it like they making paper 100 French created going up.,0.001,female,0.005,0,0.002,0.01,0.001,0.614,0.283,0.085,angry,Angry,0,annoy_1
+annoy_1,24,0.5,0.83,0.5,0.5504,0.117950555,I think my roommate why would you make it like they making paper 100 French created going up.,0.03,female,0.001,0,0.001,0.008,0.03,0.024,0.862,0.074,angry,Angry,0,annoy_1
+annoy_1,25,0.5,0.83,0.5,0.548461538,0.115989389,I think my roommate why would you make it like they making paper 100 French created going up.,0.005,female,0.001,0.001,0.001,0.009,0.005,0.63,0.067,0.286,angry,Angry,0,annoy_1
+annoy_1,26,0.5,0.83,0.5,0.546666667,0.114118697,I think my roommate why would you make it like they making paper 100 French created going up.,0.007,female,0.01,0.001,0.005,0.037,0.007,0.156,0.178,0.608,angry,Angry,0,annoy_1
+annoy_1,27,0.5,0.83,0.5,0.545,0.112332179,I think my roommate why would you make it like they making paper 100 French created going up.,0,female,0.001,0.001,0.097,0.291,0,0.011,0.568,0.031,angry,Angry,0,annoy_1
+annoy_1,28,0.76,0.83,0.5,0.552413793,0.117310795,I think my roommate why would you make it like they making paper 100 French created going up.,0,female,0,0,0.002,0.556,0,0.001,0.014,0.426,angry,Angry,0,annoy_1
+annoy_1,29,0.5,0.83,0.5,0.550666667,0.115666981,I'm going to try and beat it.,0,female,0,0,0,0,0,0.919,0.08,0.001,angry,Neutral,0.5,annoy_1
+annoy_1,30,0.5,0.83,0.5,0.549032258,0.114086366,I'm going to try and beat it.,0.001,male,0,0,0,0,0.001,0.989,0.01,0.001,angry,Neutral,0.5,annoy_1
+annoy_1,31,0.91,0.91,0.5,0.5603125,0.129103219,I'm going to try and beat it.,0.001,female,0.055,0,0.002,0.004,0.001,0.31,0.006,0.621,angry,Neutral,0.5,annoy_1
+annoy_1,32,0.5,0.91,0.5,0.558484848,0.127502971,Why is it not working? What am I doing wrong?,0,female,0,0,0,0.001,0,0.008,0,0.989,angry,Neutral,0.5,annoy_1
+annoy_1,33,0.5,0.91,0.5,0.556764706,0.125956236,Why is it not working? What am I doing wrong?,0.001,female,0,0,0,0,0.001,0.98,0.007,0.011,angry,Neutral,0.5,annoy_1
+annoy_1,34,0.5,0.91,0.5,0.555142857,0.124460517,Why is it not working? What am I doing wrong?,0,male,0,0,0,0,0,0.99,0.009,0,angry,Neutral,0.5,annoy_1
+annoy_1,35,0.5,0.91,0.5,0.553611111,0.12301342,Why is it not working? What am I doing wrong?,0.003,male,0,0,0,0.001,0.003,0.601,0.013,0.382,angry,Angry,0,annoy_1
+annoy_1,36,0.5,0.91,0.5,0.552162162,0.121612662,Why is it not working? What am I doing wrong?,0,male,0,0,0,0,0,0.42,0.579,0,angry,Neutral,0.5,annoy_1
+annoy_1,37,0.5,0.91,0.5,0.550789474,0.120256069,Why is it not working? What am I doing wrong?,0,male,0.007,0,0,0,0,0.011,0,0.982,angry,Neutral,0.5,annoy_1
+annoy_1,38,0.1,0.91,0.1,0.539230769,0.138893837,Why is it not working? What am I doing wrong?,0,male,0,0,0.001,0.191,0,0.14,0.319,0.349,angry,Angry,0,annoy_1
+annoy_1,39,0.5,0.91,0.1,0.53825,0.137241832,Do you know the middle or the Rubik's Cube?,0.001,male,0.003,0.057,0.021,0.393,0.001,0.068,0.319,0.138,angry,Angry,0,annoy_1
+annoy_1,40,0.5,0.91,0.1,0.537317073,0.135647049,Do you know the middle or the Rubik's Cube?,0,female,0,0,0,0,0,0.877,0.123,0,angry,Neutral,0.5,annoy_1
+annoy_1,41,0.5,0.91,0.1,0.536428571,0.134106282,Do you know the middle or the Rubik's Cube?,0,male,0,0,0,0,0,0.355,0.645,0,angry,Neutral,0.5,annoy_1
+annoy_1,42,0.5,0.91,0.1,0.535581395,0.132616567,Do you know the middle or the Rubik's Cube?,0.018,female,0.003,0,0.005,0,0.018,0.265,0.707,0,angry,Neutral,0.5,annoy_1
+annoy_1,43,0.5,0.91,0.1,0.534772727,0.131175165,Do you know the middle or the Rubik's Cube?,0.008,male,0,0.001,0.001,0.001,0.008,0.348,0.639,0.001,angry,Neutral,0.5,annoy_1
+annoy_1,44,0.5,0.91,0.1,0.534,0.129779533,Do you know the middle or the Rubik's Cube?,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,45,0.5,0.91,0.1,0.53326087,0.128427314,Like it wasn't outside what's the middle Kim?,0,male,0,0,0,0,0,0.753,0.246,0,angry,Neutral,0.5,annoy_1
+annoy_1,46,0.5,0.91,0.1,0.532553191,0.127116312,Like it wasn't outside what's the middle Kim?,0.002,male,0,0,0,0,0.002,0.541,0.457,0,angry,Neutral,0.5,annoy_1
+annoy_1,47,0.5,0.91,0.1,0.531875,0.125844488,Like it wasn't outside what's the middle Kim?,0,male,0,0,0,0,0,0.422,0.577,0,angry,Neutral,0.5,annoy_1
+annoy_1,48,0.5,0.91,0.1,0.53122449,0.124609936,Like it wasn't outside what's the middle Kim?,0,male,0.001,0.001,0.001,0,0,0.614,0.382,0.001,angry,Neutral,0.5,annoy_1
+annoy_1,49,0.5,0.91,0.1,0.5306,0.123410878,Like it wasn't outside what's the middle Kim?,0,male,0,0,0,0,0,0.631,0.367,0,angry,Neutral,0.5,annoy_1
+annoy_1,50,0.5,0.91,0.1,0.53,0.122245654,Let's collect.,0.001,male,0,0,0,0,0.001,0.003,0,0.996,angry,Neutral,0.5,annoy_1
+annoy_1,51,0.94,0.94,0.1,0.537884615,0.13372985,Let's collect.,0.002,male,0,0,0,0,0.002,0.898,0.059,0.041,angry,Neutral,0.5,annoy_1
+annoy_1,52,0.5,0.94,0.1,0.537169811,0.132539941,Alright just trying to,0.001,female,0.001,0.002,0.001,0,0.001,0.558,0.436,0,angry,Angry,0,annoy_1
+annoy_1,53,0.5,0.94,0.1,0.536481481,0.131381016,Alright just trying to,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,54,0.5,0.94,0.1,0.535818182,0.130251763,Alright just trying to,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,55,0.5,0.94,0.1,0.535178571,0.129150949,Alright just trying to,0,female,0.005,0,0,0.002,0,0.019,0.898,0.076,angry,Angry,0,annoy_1
+annoy_1,56,0.5,0.94,0.1,0.534561404,0.128077406,Alright just trying to,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,57,0.5,0.94,0.1,0.533965517,0.127030037,Alright just trying to,0,male,0,0.011,0,0,0,0.1,0.889,0,angry,Neutral,0.5,annoy_1
+annoy_1,58,0.8,0.94,0.1,0.538474576,0.130606194,Alright just trying to,0,male,0,0,0,0,0,0.039,0.961,0,angry,Neutral,0.5,annoy_1
+annoy_1,59,0.5,0.94,0.1,0.537833333,0.129589857,this thing is really irritating.,0,male,0,0,0,0,0,0.389,0.611,0,angry,Neutral,0.5,annoy_1
+annoy_1,60,0.5,0.94,0.1,0.537213115,0.128596671,this thing is really irritating.,0.001,male,0,0,0,0,0.001,0.674,0.324,0,angry,Neutral,0.5,annoy_1
+annoy_1,61,0.5,0.94,0.1,0.536612903,0.127625779,this thing is really irritating.,0,male,0,0,0,0,0,0.745,0.255,0,angry,Angry,0,annoy_1
+annoy_1,62,0,0.94,0,0.528095238,0.143514157,this thing is really irritating.,0,male,0,0,0,0,0,0.501,0.499,0,angry,Neutral,0.5,annoy_1
+annoy_1,63,0.5,0.94,0,0.52765625,0.142413908,You can't ever tell us in the middle.,0,male,0.001,0.03,0,0,0,0.459,0.51,0,angry,Neutral,0.5,annoy_1
+annoy_1,64,0.5,0.94,0,0.527230769,0.141338553,You can't ever tell us in the middle.,0,male,0,0,0,0,0,0.794,0.206,0,angry,Neutral,0.5,annoy_1
+annoy_1,65,0.5,0.94,0,0.526818182,0.140287168,You can't ever tell us in the middle.,0,female,0,0,0,0,0,0.884,0.116,0,angry,Neutral,0.5,annoy_1
+annoy_1,66,0.5,0.94,0,0.52641791,0.139258877,You can't ever tell us in the middle.,0.109,female,0,0,0,0,0.109,0.878,0.012,0.001,angry,Neutral,0.5,annoy_1
+annoy_1,67,0.5,0.94,0,0.526029412,0.138252848,You can't ever tell us in the middle.,0,male,0,0,0,0.001,0,0.959,0.02,0.02,angry,Neutral,0.5,annoy_1
+annoy_1,68,0.5,0.94,0,0.525652174,0.137268289,You can't ever tell us in the middle.,0.001,male,0,0,0,0.004,0.001,0.797,0.045,0.152,angry,Neutral,0.5,annoy_1
+annoy_1,69,0.5,0.94,0,0.525285714,0.136304449,"Well, when I was in the Middle East.",0,female,0,0,0,0,0,0.924,0.076,0,angry,Happy,1,annoy_1
+annoy_1,70,0.5,0.94,0,0.524929577,0.135360611,"Well, when I was in the Middle East.",0.996,female,0,0,0,0,0.996,0,0.003,0,angry,Happy,1,annoy_1
+annoy_1,71,0.76,0.94,0,0.528194444,0.137229389,"Well, when I was in the Middle East.",0,female,0,0,0,0,0,0.962,0.038,0,angry,Neutral,0.5,annoy_1
+annoy_1,72,0.5,0.94,0,0.527808219,0.136313024,Not walking.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,73,0.5,0.94,0,0.527432432,0.135414744,Not walking.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,74,0.5,0.94,0,0.527066667,0.134533964,Not walking.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,75,0.5,0.94,0,0.526710526,0.133670123,Not walking.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,76,0.5,0.94,0,0.526363636,0.132822686,Not walking.,0.846,female,0,0.003,0,0,0.846,0.152,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,77,0.5,0.94,0,0.526025641,0.131991142,Not walking.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,78,0.5,0.94,0,0.525696203,0.131175001,Not walking.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,79,0.5,0.94,0,0.525375,0.130373793,Not walking.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,80,0.5,0.94,0,0.525061728,0.12958707,Not walking.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,81,0.5,0.94,0,0.524756098,0.1288144,Not walking.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,82,0.5,0.94,0,0.524457831,0.128055371,Not walking.,0,male,0,0.009,0,0,0,0.89,0.101,0,angry,Neutral,0.5,annoy_1
+annoy_1,83,0.5,0.94,0,0.524166667,0.127309587,Not walking.,0,female,0.001,0.004,0,0,0,0.88,0.115,0,angry,Neutral,0.5,annoy_1
+annoy_1,84,0.75,0.94,0,0.526823529,0.12889837,Not walking.,0,female,0,0,0,0,0,0.816,0.182,0,angry,Sad,0,annoy_1
+annoy_1,85,0.5,0.94,0,0.526511628,0.128170543,Didn't even dent it?,0.001,female,0.005,0.007,0.001,0.001,0.001,0.633,0.351,0.001,angry,Sad,0,annoy_1
+annoy_1,86,0.5,0.94,0,0.526206897,0.127454884,Didn't even dent it?,0.332,male,0.001,0,0.002,0.001,0.332,0.025,0.637,0.001,angry,Angry,0,annoy_1
+annoy_1,87,0.5,0.94,0,0.525909091,0.126751058,Didn't even dent it?,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_1
+annoy_1,88,0.5,0.94,0,0.525617978,0.126058744,Didn't even dent it?,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_1
+annoy_1,89,0.5,0.94,0,0.525333333,0.125377632,Didn't even dent it?,0.001,male,0,0.003,0,0,0.001,0.978,0.018,0,angry,Angry,0,annoy_1
+annoy_1,90,0.5,0.94,0,0.525054945,0.124707423,Didn't even dent it?,0,male,0,0,0,0,0,0.308,0.692,0,angry,Angry,0,annoy_1
+annoy_1,91,0.5,0.94,0,0.524782609,0.124047831,Didn't even dent it?,0.027,male,0,0.18,0,0,0.027,0.766,0.026,0,angry,Neutral,0.5,annoy_1
+annoy_1,92,0.19,0.94,0,0.521182796,0.12816302,Didn't even dent it?,0,female,0,0,0,0.001,0,0.959,0.037,0.003,angry,Neutral,0.5,annoy_1
+annoy_1,93,0.5,0.94,0,0.520957447,0.127490832,Probably make these things would diamond titanium.,0,male,0,0,0,0,0,0.995,0.003,0.002,angry,Neutral,0.5,annoy_1
+annoy_1,94,0.5,0.94,0,0.520736842,0.126829104,Probably make these things would diamond titanium.,0.005,male,0,0,0,0,0.005,0.689,0.302,0.002,angry,Angry,0,annoy_1
+annoy_1,95,0.5,0.94,0,0.520520833,0.126177567,Probably make these things would diamond titanium.,0.024,male,0,0,0,0.005,0.024,0,0.968,0.002,angry,Angry,0,annoy_1
+annoy_1,96,0.5,0.94,0,0.520309278,0.125535964,Probably make these things would diamond titanium.,0,male,0,0.001,0.004,0,0,0.216,0.778,0,angry,Angry,0,annoy_1
+annoy_1,97,0.5,0.94,0,0.520102041,0.124904045,Probably make these things would diamond titanium.,0.037,female,0,0,0,0,0.037,0.026,0.936,0,angry,Angry,0,annoy_1
+annoy_1,98,0.5,0.94,0,0.51989899,0.124281568,Probably make these things would diamond titanium.,0.52,female,0.001,0.046,0.002,0,0.52,0.371,0.059,0,angry,Angry,0,annoy_1
+annoy_1,99,0.77,0.94,0,0.5224,0.126156228,Probably make these things would diamond titanium.,0.009,female,0.005,0.001,0.003,0.008,0.009,0.728,0.012,0.235,angry,Angry,0,annoy_1
+annoy_1,100,0.5,0.94,0,0.522178218,0.125543649,Whenever it's really strong.,0.002,female,0.002,0,0.002,0.016,0.002,0.353,0.165,0.461,angry,Angry,0,annoy_1
+annoy_1,101,0.5,0.94,0,0.521960784,0.1249399,Whenever it's really strong.,0,female,0,0,0,0.003,0,0.848,0.019,0.129,angry,Neutral,0.5,annoy_1
+annoy_1,102,0.73,0.94,0,0.523980583,0.126004511,Whenever it's really strong.,0,male,0,0,0,0,0,0.886,0.114,0,angry,Neutral,0.5,annoy_1
+annoy_1,103,0.5,0.94,0,0.52375,0.125413394,We've exceeded such a tease.,0.016,male,0,0.002,0,0,0.016,0.927,0.055,0,angry,Angry,0,annoy_1
+annoy_1,104,0.5,0.94,0,0.52352381,0.124830508,We've exceeded such a tease.,0.069,male,0,0,0,0,0.069,0.896,0.034,0,angry,Angry,0,annoy_1
+annoy_1,105,0.5,0.94,0,0.523301887,0.124255663,We've exceeded such a tease.,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_1
+annoy_1,106,0.78,0.94,0,0.525700935,0.126133443,We've exceeded such a tease.,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_1
+annoy_1,107,0.5,0.94,0,0.525462963,0.125567008,Who was protecting them anyway?,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_1
+annoy_1,108,0.5,0.94,0,0.525229358,0.125008121,Who was protecting them anyway?,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_1
+annoy_1,109,0.5,0.94,0,0.525,0.124456617,Who was protecting them anyway?,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,110,0.5,0.94,0,0.524774775,0.123912336,Who was protecting them anyway?,0.005,female,0,0,0,0.002,0.005,0.807,0.177,0.009,angry,Neutral,0.5,annoy_1
+annoy_1,111,0.5,0.94,0,0.524553571,0.123375121,Who was protecting them anyway?,0.005,female,0.001,0,0.002,0.001,0.005,0.842,0.135,0.014,angry,Neutral,0.5,annoy_1
+annoy_1,112,0.5,0.94,0,0.524336283,0.122844822,Who was protecting them anyway?,0.003,female,0,0,0,0.002,0.003,0.538,0.445,0.013,angry,Neutral,0.5,annoy_1
+annoy_1,113,0.5,0.94,0,0.524122807,0.12232129,Who was protecting them anyway?,0.083,female,0,0.001,0.002,0,0.083,0.227,0.686,0,angry,Neutral,0.5,annoy_1
+annoy_1,114,0.25,0.94,0,0.52173913,0.124437407,Who was protecting them anyway?,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,115,0.5,0.94,0,0.521551724,0.123911634,Nice wasn't his theme song.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,116,0.5,0.94,0,0.521367521,0.123392463,Nice wasn't his theme song.,0.03,male,0.001,0,0,0,0.03,0.96,0.01,0,angry,Neutral,0.5,annoy_1
+annoy_1,117,0.5,0.94,0,0.521186441,0.122879758,Nice wasn't his theme song.,0.007,male,0,0,0,0,0.007,0.966,0.027,0,angry,Neutral,0.5,annoy_1
+annoy_1,118,0.5,0.94,0,0.521008403,0.122373386,Nice wasn't his theme song.,0.005,female,0,0,0,0,0.005,0.987,0.006,0.002,angry,Neutral,0.5,annoy_1
+annoy_1,119,0.98,0.98,0,0.524833333,0.128860444,Nice wasn't his theme song.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_1
+annoy_1,120,0.5,0.98,0,0.524628099,0.128342259,Is it done done done done done done then then?,0.008,female,0,0,0,0,0.008,0.982,0.001,0.009,angry,Neutral,0.5,annoy_1
+annoy_1,121,0.5,0.98,0,0.52442623,0.127830267,Is it done done done done done done then then?,0.034,female,0.001,0.001,0.001,0.003,0.034,0.879,0.022,0.058,angry,Neutral,0.5,annoy_1
+annoy_1,122,0.5,0.98,0,0.524227642,0.127324345,Is it done done done done done done then then?,0.002,female,0.001,0,0,0.001,0.002,0.898,0.006,0.092,angry,Neutral,0.5,annoy_1
+annoy_1,123,0.5,0.98,0,0.524032258,0.126824374,Is it done done done done done done then then?,0.001,female,0,0,0,0,0.001,0.837,0.162,0,angry,Neutral,0.5,annoy_1
+annoy_1,124,0.86,0.98,0,0.52672,0.129837218,Is it done done done done done done then then?,0,male,0,0,0,0,0,0.908,0.091,0,angry,Neutral,0.5,annoy_1
+annoy_1,125,0.5,0.98,0,0.526507937,0.129338733,We have a lot of you have got a little green.,0,male,0,0.001,0,0,0,0.771,0.227,0,angry,Neutral,0.5,annoy_1
+annoy_1,126,0.5,0.98,0,0.526299213,0.128845935,We have a lot of you have got a little green.,0.001,female,0.003,0,0.001,0.004,0.001,0.681,0.061,0.249,angry,Angry,0,annoy_1
+annoy_1,127,0.5,0.98,0,0.52609375,0.128358715,We have a lot of you have got a little green.,0.012,male,0.212,0.001,0.007,0.027,0.012,0.376,0.021,0.345,angry,Angry,0,annoy_1
+annoy_1,128,0.84,0.98,0,0.528527132,0.130809384,We have a lot of you have got a little green.,0.001,male,0,0,0,0,0.001,0.763,0.233,0.003,angry,Neutral,0.5,annoy_1
+annoy_1,129,0.5,0.98,0,0.528307692,0.130325403,"Yeah, I only play with a Rubik's Cube if you have no anger problems. No frustration problems and a heck lot of free time.",0,male,0,0,0,0.001,0,0.327,0.006,0.666,angry,Neutral,0.5,annoy_1
+annoy_1,130,0.5,0.98,0,0.528091603,0.129846741,"Yeah, I only play with a Rubik's Cube if you have no anger problems. No frustration problems and a heck lot of free time.",0.001,male,0,0,0,0,0.001,0.994,0.005,0,angry,Neutral,0.5,annoy_1
+annoy_1,131,0.5,0.98,0,0.527878788,0.1293733,"Yeah, I only play with a Rubik's Cube if you have no anger problems. No frustration problems and a heck lot of free time.",0.002,male,0.001,0,0,0.001,0.002,0.735,0.045,0.217,angry,Neutral,0.5,annoy_1
+annoy_1,132,0.5,0.98,0,0.527669173,0.128904987,"Yeah, I only play with a Rubik's Cube if you have no anger problems. No frustration problems and a heck lot of free time.",0.002,male,0.006,0.001,0.001,0.002,0.002,0.837,0.008,0.143,angry,Neutral,0.5,annoy_1
+annoy_1,133,0.5,0.98,0,0.527462687,0.128441711,"Yeah, I only play with a Rubik's Cube if you have no anger problems. No frustration problems and a heck lot of free time.",0.001,female,0,0,0,0,0.001,0.997,0.002,0,angry,Neutral,0.5,annoy_1
+annoy_1,134,0.5,0.98,0,0.527259259,0.127983381,"Yeah, I only play with a Rubik's Cube if you have no anger problems. No frustration problems and a heck lot of free time.",0.01,female,0.001,0,0.001,0.004,0.01,0.406,0.122,0.456,angry,Neutral,0.5,annoy_1
+annoy_1,135,0.5,0.98,0,0.527058824,0.12752991,"Yeah, I only play with a Rubik's Cube if you have no anger problems. No frustration problems and a heck lot of free time.",0,male,0.013,0,0,0,0,0,0,0.986,angry,Neutral,0.5,annoy_1
+annoy_1,136,0.5,0.98,0,0.526861314,0.127081214,"Yeah, I only play with a Rubik's Cube if you have no anger problems. No frustration problems and a heck lot of free time.",0,male,0,0,0,0,0,0.992,0.008,0,angry,Neutral,0.5,annoy_1
+annoy_1,137,0.5,0.98,0,0.526666667,0.12663721,"Yeah, I only play with a Rubik's Cube if you have no anger problems. No frustration problems and a heck lot of free time.",0.098,female,0,0,0,0.001,0.098,0.771,0.083,0.048,angry,Neutral,0.5,annoy_1
+annoy_1,138,0.5,0.98,0,0.52647482,0.126197816,"Yeah, I only play with a Rubik's Cube if you have no anger problems. No frustration problems and a heck lot of free time.",0,female,0,0,0,0,0,0.01,0,0.99,angry,Neutral,0.5,annoy_1
+annoy_1,139,0.5,0.98,0,0.526285714,0.125762954,"Yeah, I only play with a Rubik's Cube if you have no anger problems. No frustration problems and a heck lot of free time.",1,female,0,0,0,0,1,0,0,0,angry,Happy,1,annoy_1
+annoy_1,140,0.86,0.98,0,0.528652482,0.128425742,"Yeah, I only play with a Rubik's Cube if you have no anger problems. No frustration problems and a heck lot of free time.",0.18,female,0.032,0,0.009,0.029,0.18,0.149,0.278,0.322,angry,Neutral,0.5,annoy_1
+annoy_1,141,0.5,0.98,0,0.528450704,0.127992108,Stupid people who invented Rubik's cubes you do it to annoy people?,0,male,0.001,0,0,0,0,0.043,0.955,0,angry,Angry,0,annoy_1
+annoy_1,142,0.5,0.98,0,0.528251748,0.127562825,Stupid people who invented Rubik's cubes you do it to annoy people?,0,male,0.005,0.001,0.002,0.003,0,0.174,0.812,0.002,angry,Neutral,0.5,annoy_1
+annoy_1,143,0.5,0.98,0,0.528055556,0.127137818,Stupid people who invented Rubik's cubes you do it to annoy people?,0.001,male,0.029,0.001,0.002,0.003,0.001,0.598,0.363,0.004,angry,Angry,0,annoy_1
+annoy_1,144,0.5,0.98,0,0.527862069,0.12671702,Stupid people who invented Rubik's cubes you do it to annoy people?,0,male,0.001,0,0.001,0.021,0,0.056,0.901,0.022,angry,Angry,0,annoy_1
+annoy_1,145,0.5,0.98,0,0.527671233,0.12630036,Stupid people who invented Rubik's cubes you do it to annoy people?,0.005,male,0.001,0.002,0,0.003,0.005,0.738,0.008,0.243,angry,Angry,0,annoy_1
+annoy_1,146,0.5,0.98,0,0.527482993,0.125887771,Stupid people who invented Rubik's cubes you do it to annoy people?,0.003,female,0,0.001,0,0.001,0.003,0.794,0.008,0.192,angry,Angry,0,annoy_1
+annoy_1,147,0.07,0.98,0,0.524391892,0.130973469,Stupid people who invented Rubik's cubes you do it to annoy people?,0,0,0,0,0,0,0,0,0,0,0,Angry,0,annoy_1
+annoy_3,0,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,1,0.5,0.5,0.5,0.5,0,0,0.001,male,0,0.001,0,0,0.001,0.992,0.005,0,angry,Neutral,0.5,annoy_3
+annoy_3,2,0.5,0.5,0.5,0.5,0,0,0.111,male,0,0.001,0,0.001,0.111,0.861,0.005,0.02,angry,Neutral,0.5,annoy_3
+annoy_3,3,0.5,0.5,0.5,0.5,0,0,0.002,female,0.071,0,0.002,0.001,0.002,0.695,0,0.23,angry,Neutral,0.5,annoy_3
+annoy_3,4,0.5,0.5,0.5,0.5,0,0,0.484,female,0.001,0.003,0.001,0.005,0.484,0.471,0.009,0.026,angry,Neutral,0.5,annoy_3
+annoy_3,5,0.5,0.5,0.5,0.5,0,0,0.11,female,0.001,0.001,0.001,0.005,0.11,0.268,0.003,0.611,angry,Neutral,0.5,annoy_3
+annoy_3,6,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,7,0.5,0.5,0.5,0.5,0,0,0,female,0,0.003,0,0.001,0,0.811,0,0.184,angry,Neutral,0.5,annoy_3
+annoy_3,8,0.5,0.5,0.5,0.5,0,0,0.008,female,0.105,0.001,0.006,0,0.008,0.774,0.001,0.106,angry,Neutral,0.5,annoy_3
+annoy_3,9,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,10,0.5,0.5,0.5,0.5,0,0,0.006,female,0,0.001,0.001,0.026,0.006,0.106,0.001,0.858,angry,Neutral,0.5,annoy_3
+annoy_3,11,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,12,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,13,0.5,0.5,0.5,0.5,0,0,0.003,male,0,0.001,0.001,0.001,0.003,0.021,0,0.974,angry,Neutral,0.5,annoy_3
+annoy_3,14,0.22,0.5,0.22,0.481333333,0.072295689,"Hey guys, so I've been having some issues lately specifically anger issues. And I'll just be doing normal things and then you know what here take a look.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,15,0.5,0.5,0.22,0.4825,0.07,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,16,0.5,0.5,0.22,0.483529412,0.067909975,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,17,0.5,0.5,0.22,0.484444444,0.065996633,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,18,0.5,0.5,0.22,0.485263158,0.064236405,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,19,0.5,0.5,0.22,0.486,0.062609903,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,20,0.5,0.5,0.22,0.486666667,0.061101009,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,21,0.5,0.5,0.22,0.487272727,0.059696201,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,22,0.5,0.5,0.22,0.487826087,0.058384036,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,23,0.5,0.5,0.22,0.488333333,0.057154761,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,24,0.5,0.5,0.22,0.4888,0.056,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,25,0.5,0.5,0.22,0.489230769,0.054912518,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,26,0.5,0.5,0.22,0.48962963,0.053886025,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,27,0.5,0.5,0.22,0.49,0.052915026,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,28,0.5,0.5,0.22,0.490344828,0.051994695,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,29,0.5,0.5,0.22,0.490666667,0.051120772,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,30,0.5,0.5,0.22,0.490967742,0.050289485,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,31,0.5,0.5,0.22,0.49125,0.049497475,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,32,0.5,0.5,0.22,0.491515152,0.048741744,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,female,0,0,0,0,0,0.995,0.005,0,angry,Neutral,0.5,annoy_3
+annoy_3,33,0.5,0.5,0.22,0.491764706,0.048019604,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,female,0,0,0,0,0,0.999,0.001,0,angry,Neutral,0.5,annoy_3
+annoy_3,34,0.5,0.5,0.22,0.492,0.047328638,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,female,0,0,0,0,0,0.938,0.001,0.061,angry,Neutral,0.5,annoy_3
+annoy_3,35,0.5,0.5,0.22,0.492222222,0.046666667,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,36,0.5,0.5,0.22,0.492432432,0.046031716,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,37,0.5,0.5,0.22,0.492631579,0.045421998,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,38,0.5,0.5,0.22,0.492820513,0.044835883,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,39,0.5,0.5,0.22,0.493,0.044271887,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,40,0.5,0.5,0.22,0.493170732,0.043728653,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,41,0.5,0.5,0.22,0.493333333,0.043204938,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,42,0.5,0.5,0.22,0.493488372,0.0426996,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,43,0.5,0.5,0.22,0.493636364,0.042211588,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,44,0.5,0.5,0.22,0.493777778,0.041739936,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,45,0.5,0.5,0.22,0.493913043,0.041283748,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,46,0.5,0.5,0.22,0.494042553,0.040842198,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,47,0.5,0.5,0.22,0.494166667,0.040414519,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,48,0.5,0.5,0.22,0.494285714,0.04,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,49,0.5,0.5,0.22,0.4944,0.03959798,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,50,0.5,0.5,0.22,0.494509804,0.039207842,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,51,0.5,0.5,0.22,0.494615385,0.038829014,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,52,0.5,0.5,0.22,0.494716981,0.038460958,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,53,0.5,0.5,0.22,0.494814815,0.038103174,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,54,0.5,0.5,0.22,0.494909091,0.037755192,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,55,0.5,0.5,0.22,0.495,0.037416574,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,56,0.5,0.5,0.22,0.495087719,0.037086906,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,57,0.5,0.5,0.22,0.495172414,0.036765801,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,58,0.5,0.5,0.22,0.495254237,0.036452895,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.002,male,0,0,0,0,0.002,0.972,0.005,0.021,angry,Neutral,0.5,annoy_3
+annoy_3,59,0.5,0.5,0.22,0.495333333,0.036147845,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,60,0.5,0.5,0.22,0.495409836,0.035850326,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,61,0.5,0.5,0.22,0.495483871,0.035560036,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,62,0.5,0.5,0.22,0.495555556,0.035276684,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,63,0.5,0.5,0.22,0.495625,0.035,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,64,0.5,0.5,0.22,0.495692308,0.034729726,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,65,0.5,0.5,0.22,0.495757576,0.034465617,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,66,0.5,0.5,0.22,0.495820896,0.034207444,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,67,0.5,0.5,0.22,0.495882353,0.033954988,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,68,0.5,0.5,0.22,0.495942029,0.033708039,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,69,0.5,0.5,0.22,0.496,0.033466401,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,70,0.5,0.5,0.22,0.496056338,0.033229886,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,71,0.5,0.5,0.22,0.496111111,0.032998316,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,72,0.5,0.5,0.22,0.496164384,0.032771521,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,73,0.5,0.5,0.22,0.496216216,0.032549339,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,74,0.5,0.5,0.22,0.496266667,0.032331615,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,75,0.5,0.5,0.22,0.496315789,0.032118203,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,76,0.5,0.5,0.22,0.496363636,0.031908961,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,77,0.5,0.5,0.22,0.496410256,0.031703757,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,78,0.5,0.5,0.22,0.496455696,0.031502461,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,79,0.5,0.5,0.22,0.4965,0.031304952,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,80,0.5,0.5,0.22,0.49654321,0.031111111,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,81,0.5,0.5,0.22,0.496585366,0.030920827,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,82,0.5,0.5,0.22,0.496626506,0.030733993,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,83,0.5,0.5,0.22,0.496666667,0.030550505,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,84,0.5,0.5,0.22,0.496705882,0.030370264,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,85,0.5,0.5,0.22,0.496744186,0.030193176,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,86,0.5,0.5,0.22,0.496781609,0.030019151,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,87,0.5,0.5,0.22,0.496818182,0.0298481,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,88,0.5,0.5,0.22,0.496853933,0.029679941,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,89,0.5,0.5,0.22,0.496888889,0.029514591,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.225,female,0.004,0,0.001,0,0.225,0.726,0.043,0.001,angry,Angry,0,annoy_3
+annoy_3,90,0.5,0.5,0.22,0.496923077,0.029351975,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,91,0.5,0.5,0.22,0.496956522,0.029192018,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,92,0.5,0.5,0.22,0.496989247,0.029034647,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,female,0,0,0,0,0,0.319,0,0.68,angry,Neutral,0.5,annoy_3
+annoy_3,93,0.5,0.5,0.22,0.497021277,0.028879795,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,female,0,0.001,0,0,0,0.951,0,0.047,angry,Neutral,0.5,annoy_3
+annoy_3,94,0.5,0.5,0.22,0.497052632,0.028727394,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.004,male,0,0.001,0,0,0.004,0.991,0.001,0.003,angry,Neutral,0.5,annoy_3
+annoy_3,95,0.5,0.5,0.22,0.497083333,0.02857738,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.398,female,0,0.004,0,0,0.398,0.596,0.002,0,angry,Neutral,0.5,annoy_3
+annoy_3,96,0.5,0.5,0.22,0.497113402,0.028429693,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.047,female,0,0,0,0,0.047,0.104,0.001,0.848,angry,Neutral,0.5,annoy_3
+annoy_3,97,0.5,0.5,0.22,0.497142857,0.028284271,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,female,0,0,0,0,0,0.998,0.001,0,angry,Neutral,0.5,annoy_3
+annoy_3,98,0.5,0.5,0.22,0.497171717,0.028141059,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,male,0,0,0,0,0,0.995,0.005,0,angry,Neutral,0.5,annoy_3
+annoy_3,99,0.5,0.5,0.22,0.4972,0.028,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,female,0,0,0,0,0,1,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,100,0.5,0.5,0.22,0.497227723,0.027861041,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,male,0,0,0,0,0,0.994,0.006,0,angry,Angry,0,annoy_3
+annoy_3,101,0.5,0.5,0.22,0.497254902,0.027724131,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.129,female,0.035,0,0.001,0,0.129,0.001,0,0.834,angry,Angry,0,annoy_3
+annoy_3,102,0.5,0.5,0.22,0.497281553,0.02758922,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.111,female,0.171,0.001,0.023,0.016,0.111,0.036,0.062,0.581,angry,Angry,0,annoy_3
+annoy_3,103,0.5,0.5,0.22,0.497307692,0.027456259,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,104,0.5,0.5,0.22,0.497333333,0.027325202,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,105,0.5,0.5,0.22,0.497358491,0.027196004,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,106,0.5,0.5,0.22,0.497383178,0.027068622,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.13,male,0.008,0.002,0.033,0.005,0.13,0.124,0.013,0.685,angry,Neutral,0.5,annoy_3
+annoy_3,107,0.5,0.5,0.22,0.497407407,0.026943013,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,108,0.5,0.5,0.22,0.497431193,0.026819136,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,109,0.5,0.5,0.22,0.497454545,0.026696952,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,110,0.5,0.5,0.22,0.497477477,0.026576424,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,111,0.5,0.5,0.22,0.4975,0.026457513,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,112,0.5,0.5,0.22,0.497522124,0.026340184,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,113,0.5,0.5,0.22,0.49754386,0.026224403,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,114,0.5,0.5,0.22,0.497565217,0.026110135,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,115,0.5,0.5,0.22,0.497586207,0.025997347,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,116,0.5,0.5,0.22,0.497606838,0.025886009,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,117,0.5,0.5,0.22,0.497627119,0.025776089,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,118,0.5,0.5,0.22,0.497647059,0.025667558,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,119,0.5,0.5,0.22,0.497666667,0.025560386,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,120,0.5,0.5,0.22,0.49768595,0.025454545,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,121,0.5,0.5,0.22,0.497704918,0.025350009,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,122,0.5,0.5,0.22,0.497723577,0.02524675,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,123,0.5,0.5,0.22,0.497741935,0.025144742,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.037,male,0,0,0,0,0.037,0.957,0.006,0,angry,Neutral,0.5,annoy_3
+annoy_3,124,0.5,0.5,0.22,0.49776,0.025043961,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,125,0.5,0.5,0.22,0.497777778,0.024944383,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,126,0.5,0.5,0.22,0.497795276,0.024845982,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,127,0.5,0.5,0.22,0.4978125,0.024748737,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.006,male,0,0,0,0,0.006,0.985,0.009,0,angry,Neutral,0.5,annoy_3
+annoy_3,128,0.5,0.5,0.22,0.497829457,0.024652625,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.03,male,0,0,0,0,0.03,0.958,0.011,0,angry,Neutral,0.5,annoy_3
+annoy_3,129,0.5,0.5,0.22,0.497846154,0.024557625,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,130,0.5,0.5,0.22,0.497862595,0.024463714,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,131,0.5,0.5,0.22,0.497878788,0.024370872,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,132,0.5,0.5,0.22,0.497894737,0.024279079,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,133,0.5,0.5,0.22,0.497910448,0.024188316,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,134,0.5,0.5,0.22,0.497925926,0.024098563,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.334,female,0.017,0.038,0.116,0.014,0.334,0.236,0.006,0.239,angry,Neutral,0.5,annoy_3
+annoy_3,135,0.5,0.5,0.22,0.497941176,0.024009802,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,female,0.002,0,0,0.001,0,0.092,0,0.905,angry,Neutral,0.5,annoy_3
+annoy_3,136,0.5,0.5,0.22,0.497956204,0.023922014,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,137,0.5,0.5,0.22,0.497971014,0.023835183,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.025,female,0,0,0,0.001,0.025,0.001,0,0.972,angry,Neutral,0.5,annoy_3
+annoy_3,138,0.5,0.5,0.22,0.497985612,0.02374929,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.018,female,0,0.001,0,0.002,0.018,0.539,0.002,0.437,angry,Neutral,0.5,annoy_3
+annoy_3,139,0.5,0.5,0.22,0.498,0.023664319,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.244,female,0.001,0.002,0.001,0.003,0.244,0.544,0.001,0.204,angry,Neutral,0.5,annoy_3
+annoy_3,140,0.5,0.5,0.22,0.498014184,0.023580254,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,female,0,0.001,0,0,0,0.998,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,141,0.5,0.5,0.22,0.498028169,0.023497078,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.11,female,0,0,0,0.005,0.11,0,0,0.886,angry,Neutral,0.5,annoy_3
+annoy_3,142,0.5,0.5,0.22,0.498041958,0.023414776,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.021,female,0,0,0,0,0.021,0.002,0,0.976,angry,Neutral,0.5,annoy_3
+annoy_3,143,0.5,0.5,0.22,0.498055556,0.023333333,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,female,0.021,0.003,0.001,0.001,0,0.354,0,0.62,angry,Neutral,0.5,annoy_3
+annoy_3,144,0.5,0.5,0.22,0.498068966,0.023252734,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.003,female,0,0.005,0,0.002,0.003,0.009,0,0.98,angry,Neutral,0.5,annoy_3
+annoy_3,145,0.5,0.5,0.22,0.498082192,0.023172965,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.007,female,0.001,0.003,0,0,0.007,0.988,0.001,0.001,angry,Neutral,0.5,annoy_3
+annoy_3,146,0.5,0.5,0.22,0.498095238,0.023094011,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.928,female,0,0.002,0,0,0.928,0.065,0.005,0,angry,Neutral,0.5,annoy_3
+annoy_3,147,0.5,0.5,0.22,0.498108108,0.023015858,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,148,0.5,0.5,0.22,0.498120805,0.022938494,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.358,female,0,0,0,0,0.358,0.015,0.002,0.624,angry,Angry,0,annoy_3
+annoy_3,149,0.5,0.5,0.22,0.498133333,0.022861904,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,150,0.5,0.5,0.22,0.498145695,0.022786077,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,female,0.536,0,0,0.003,0,0,0,0.46,angry,Angry,0,annoy_3
+annoy_3,151,0.5,0.5,0.22,0.498157895,0.022710999,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,152,0.5,0.5,0.22,0.498169935,0.022636658,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.079,female,0.206,0,0.003,0.059,0.079,0.009,0.001,0.644,angry,Angry,0,annoy_3
+annoy_3,153,0.5,0.5,0.22,0.498181818,0.022563043,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,154,0.5,0.5,0.22,0.498193548,0.022490141,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,155,0.5,0.5,0.22,0.498205128,0.022417942,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.831,female,0,0,0,0,0.831,0.123,0,0.045,angry,Neutral,0.5,annoy_3
+annoy_3,156,0.5,0.5,0.22,0.498216561,0.022346433,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,157,0.5,0.5,0.22,0.498227848,0.022275604,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,female,0,0,0,0,0,0.999,0,0.001,angry,Neutral,0.5,annoy_3
+annoy_3,158,0.5,0.5,0.22,0.498238994,0.022205444,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0.022,female,0,0.002,0,0.002,0.022,0.945,0.021,0.007,angry,Neutral,0.5,annoy_3
+annoy_3,159,0.2,0.5,0.2,0.496375,0.032340319,"So there guys there, you have it, I don't know why it's happening. I'm not particularly in angry person and I cannot control it. So yeah, I think we're gonna wrap up. This video right by law law right here and some I'll see you later.",0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,160,0.5,0.5,0.2,0.496397516,0.032240363,Bye bye bye.,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_3
+annoy_3,161,0.5,0.5,0.2,0.496419753,0.032141328,Bye bye bye.,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,162,0.5,0.5,0.2,0.496441718,0.0320432,Bye bye bye.,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,163,0.11,0.5,0.11,0.494085366,0.04394383,Bye bye bye.,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,164,0.11,0.5,0.11,0.491757576,0.053041074, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,165,0.11,0.5,0.11,0.489457831,0.06061559, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,166,0.11,0.5,0.11,0.487185629,0.067188695, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,167,0.11,0.5,0.11,0.484940476,0.073035116, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,168,0.11,0.5,0.11,0.482721893,0.078321222, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,169,0.11,0.5,0.11,0.480529412,0.083157096, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,170,0.11,0.5,0.11,0.478362573,0.087620221, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,171,0.11,0.5,0.11,0.47622093,0.091767683, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,172,0.11,0.5,0.11,0.474104046,0.095643054, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,173,0.11,0.5,0.11,0.472011494,0.099280533, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_3,174,0.11,0.5,0.11,0.469942857,0.102707581, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_3
+annoy_6,0,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_6
+annoy_6,1,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_6
+annoy_6,2,0.5,0.5,0.5,0.5,0,0,0,male,0,0,0,0,0,0.997,0.002,0.001,angry,Neutral,0.5,annoy_6
+annoy_6,3,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_6
+annoy_6,4,0.5,0.5,0.5,0.5,0,0,0,male,0.005,0,0.01,0,0,0.963,0.021,0.001,angry,Angry,0,annoy_6
+annoy_6,5,0.5,0.5,0.5,0.5,0,0,0.002,male,0.013,0.001,0.014,0,0.002,0.916,0.054,0,angry,Angry,0,annoy_6
+annoy_6,6,0.5,0.5,0.5,0.5,0,0,0,male,0.003,0,0.001,0,0,0.986,0.009,0,angry,Neutral,0.5,annoy_6
+annoy_6,7,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_6
+annoy_6,8,0.5,0.5,0.5,0.5,0,0,0,male,0.009,0,0.002,0,0,0.974,0.007,0.007,angry,Angry,0,annoy_6
+annoy_6,9,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_6
+annoy_6,10,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_6
+annoy_6,11,0.5,0.5,0.5,0.5,0,0,0.021,male,0.19,0.001,0.157,0,0.021,0.605,0.023,0.002,angry,Angry,0,annoy_6
+annoy_6,12,0.5,0.5,0.5,0.5,0,0,0,male,0.005,0,0.001,0,0,0.983,0.007,0.003,angry,Angry,0,annoy_6
+annoy_6,13,0.5,0.5,0.5,0.5,0,0,0.017,male,0.053,0.001,0.007,0,0.017,0.907,0.005,0.01,angry,Angry,0,annoy_6
+annoy_6,14,0.5,0.5,0.5,0.5,0,0,0,male,0.162,0,0.001,0.001,0,0.027,0,0.809,angry,Angry,0,annoy_6
+annoy_6,15,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,angry,Neutral,0.5,annoy_6
+annoy_6,16,0.5,0.5,0.5,0.5,0,0,0.081,male,0.01,0.001,0.012,0,0.081,0.854,0.041,0.001,angry,Angry,0,annoy_6
+annoy_6,17,0.5,0.5,0.5,0.5,0,0,0.001,male,0.025,0.001,0.038,0,0.001,0.752,0.178,0.006,angry,Angry,0,annoy_6
+annoy_6,18,0.5,0.5,0.5,0.5,0,0,0.002,male,0.001,0.001,0,0,0.002,0.96,0.035,0,angry,Angry,0,annoy_6
+annoy_6,19,0.5,0.5,0.5,0.5,0,0,0.005,male,0.753,0.006,0.016,0.004,0.005,0.191,0.024,0.002,angry,Angry,0,annoy_6
+annoy_6,20,0.5,0.5,0.5,0.5,0,0,0.004,male,0.01,0.002,0.006,0.006,0.004,0.895,0.059,0.017,angry,Neutral,0.5,annoy_6
+annoy_6,21,0.5,0.5,0.5,0.5,0,0,0,male,0.014,0,0.001,0.001,0,0.752,0.003,0.228,angry,Angry,0,annoy_6
+annoy_6,22,0.5,0.5,0.5,0.5,0,0,0,male,0.042,0.001,0.005,0,0,0.926,0.011,0.013,angry,Angry,0,annoy_6
+annoy_6,23,0.5,0.5,0.5,0.5,0,0,0.005,male,0.001,0,0,0.002,0.005,0.864,0.017,0.111,angry,Angry,0,annoy_6
+annoy_6,24,0.5,0.5,0.5,0.5,0,0,0.021,male,0.141,0.001,0.01,0.209,0.021,0.34,0.13,0.149,angry,Angry,0,annoy_6
+annoy_6,25,0.5,0.5,0.5,0.5,0,0,0.654,male,0.18,0.001,0.039,0,0.654,0.087,0.04,0,angry,Angry,0,annoy_6
+annoy_6,26,0.5,0.5,0.5,0.5,0,0,0.133,male,0.4,0.005,0.021,0.002,0.133,0.415,0.024,0.001,angry,Angry,0,annoy_6
+annoy_6,27,0.5,0.5,0.5,0.5,0,0,0.04,male,0.012,0.004,0.006,0.001,0.04,0.925,0.008,0.005,angry,Angry,0,annoy_6
+annoy_6,28,0.5,0.5,0.5,0.5,0,0,0,male,0.006,0,0.001,0,0,0.982,0.009,0.001,angry,Angry,0,annoy_6
+annoy_6,29,0.5,0.5,0.5,0.5,0,0,0.032,male,0,0.001,0,0,0.032,0.934,0.032,0,angry,Angry,0,annoy_6
+annoy_6,30,0.5,0.5,0.5,0.5,0,0,0,male,0.002,0.002,0.001,0.002,0,0.748,0.243,0.002,angry,Angry,0,annoy_6
+annoy_6,31,0.16,0.5,0.16,0.489375,0.060104076,"Hey Ferrari, how 'bout you tell everybody how bad as being an NBA 3 times to stop being alone, and Detroit Pistons, Detroit Pistons, who are you have the Miami Heat Detroit Pittsburgh. Miami heats and I'll be back for you. If you would just win this would happen, you freaking sore loser, you Lewiston ME anybody home.",0.001,male,0.001,0,0,0.001,0.001,0.272,0.005,0.72,angry,Angry,0,annoy_6
+annoy_6,32,0.5,0.5,0.16,0.48969697,0.059186403,I'm going to tell her who thought was 'cause that's my fault that you can't control your anger now. I don't need you. I repeat you. You freaking suck at that game and it's obvious this Ella Bron going up.,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_6
+annoy_6,33,0.5,0.5,0.16,0.49,0.058309519,I'm going to tell her who thought was 'cause that's my fault that you can't control your anger now. I don't need you. I repeat you. You freaking suck at that game and it's obvious this Ella Bron going up.,0.022,male,0.325,0.001,0.005,0.003,0.022,0.603,0.034,0.007,angry,Angry,0,annoy_6
+annoy_6,34,0.5,0.5,0.16,0.490285714,0.057470489,I'm going to tell her who thought was 'cause that's my fault that you can't control your anger now. I don't need you. I repeat you. You freaking suck at that game and it's obvious this Ella Bron going up.,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_6
+annoy_6,35,0.5,0.5,0.16,0.490555556,0.056666667,I'm going to tell her who thought was 'cause that's my fault that you can't control your anger now. I don't need you. I repeat you. You freaking suck at that game and it's obvious this Ella Bron going up.,0,male,0,0,0,0,0,0.922,0,0.077,angry,Angry,0,annoy_6
+annoy_6,36,0.5,0.5,0.16,0.490810811,0.055895656,I'm going to tell her who thought was 'cause that's my fault that you can't control your anger now. I don't need you. I repeat you. You freaking suck at that game and it's obvious this Ella Bron going up.,0.062,male,0.753,0.001,0.044,0,0.062,0.135,0.002,0.001,angry,Angry,0,annoy_6
+annoy_6,37,0.5,0.5,0.16,0.491052632,0.055155283,I'm going to tell her who thought was 'cause that's my fault that you can't control your anger now. I don't need you. I repeat you. You freaking suck at that game and it's obvious this Ella Bron going up.,0.003,male,0.003,0.001,0,0,0.003,0.984,0.002,0.006,angry,Neutral,0.5,annoy_6
+annoy_6,38,0.5,0.5,0.16,0.491282051,0.054443572,I'm going to tell her who thought was 'cause that's my fault that you can't control your anger now. I don't need you. I repeat you. You freaking suck at that game and it's obvious this Ella Bron going up.,0.331,male,0,0,0,0,0.331,0.623,0.03,0.014,angry,Angry,0,annoy_6
+annoy_6,39,0.5,0.5,0.16,0.4915,0.05375872,I'm going to tell her who thought was 'cause that's my fault that you can't control your anger now. I don't need you. I repeat you. You freaking suck at that game and it's obvious this Ella Bron going up.,0,male,0.011,0,0,0,0,0.043,0,0.946,angry,Angry,0,annoy_6
+annoy_6,40,0.5,0.5,0.16,0.491707317,0.053099079,I'm going to tell her who thought was 'cause that's my fault that you can't control your anger now. I don't need you. I repeat you. You freaking suck at that game and it's obvious this Ella Bron going up.,0.001,male,0.011,0.001,0.016,0.159,0.001,0.06,0.076,0.676,angry,Angry,0,annoy_6
+annoy_6,41,0.5,0.5,0.16,0.491904762,0.052463139,I'm going to tell her who thought was 'cause that's my fault that you can't control your anger now. I don't need you. I repeat you. You freaking suck at that game and it's obvious this Ella Bron going up.,0.873,male,0.008,0.001,0.004,0.001,0.873,0.098,0.013,0.001,angry,Angry,0,annoy_6
+annoy_6,42,0.5,0.5,0.16,0.492093023,0.051849514,I'm going to tell her who thought was 'cause that's my fault that you can't control your anger now. I don't need you. I repeat you. You freaking suck at that game and it's obvious this Ella Bron going up.,0.001,male,0.008,0.018,0.204,0.015,0.001,0.296,0.456,0.003,angry,Angry,0,annoy_6
+annoy_6,43,0.5,0.5,0.16,0.492272727,0.051256929,I'm going to tell her who thought was 'cause that's my fault that you can't control your anger now. I don't need you. I repeat you. You freaking suck at that game and it's obvious this Ella Bron going up.,0.452,male,0.035,0.002,0.012,0.009,0.452,0.427,0.053,0.01,angry,Angry,0,annoy_6
+annoy_6,44,0.5,0.5,0.16,0.492444444,0.050684207,I'm going to tell her who thought was 'cause that's my fault that you can't control your anger now. I don't need you. I repeat you. You freaking suck at that game and it's obvious this Ella Bron going up.,0.014,male,0,0,0,0,0.014,0.968,0.009,0.008,angry,Angry,0,annoy_6
+annoy_6,45,0.5,0.5,0.16,0.492608696,0.050130265,I'm going to tell her who thought was 'cause that's my fault that you can't control your anger now. I don't need you. I repeat you. You freaking suck at that game and it's obvious this Ella Bron going up.,0.793,male,0.028,0,0.002,0.004,0.793,0.051,0.048,0.074,angry,Angry,0,annoy_6
+annoy_6,46,0.11,0.5,0.11,0.484468085,0.074653067,I'm going to tell her who thought was 'cause that's my fault that you can't control your anger now. I don't need you. I repeat you. You freaking suck at that game and it's obvious this Ella Bron going up.,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_6
+annoy_6,47,0.11,0.5,0.11,0.476666667,0.09151987, ,0,0,0,0,0,0,0,0,0,0,angry,Angry,0,annoy_6
+joy_2,0,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_2
+joy_2,1,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_2
+joy_2,2,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_2
+joy_2,3,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Neutral,0.5,joy_2
+joy_2,4,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_2
+joy_2,5,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_2
+joy_2,6,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_2
+joy_2,7,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_2
+joy_2,8,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_2
+joy_2,9,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_2
+joy_2,10,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_2
+joy_2,11,0.5,0.5,0.5,0.5,0,The gap here.,0.993,female,0,0,0,0,0.993,0,0.007,0,happy,Happy,1,joy_2
+joy_5,0,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_5
+joy_5,1,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,2,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,3,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,4,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,5,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,6,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,7,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,8,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,9,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,10,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,11,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_5
+joy_5,12,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,13,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,14,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,15,0.06,0.5,0.06,0.4725,0.11,"They need parking lot parking lot an after prom recklessly in the strangest thing. It was just in here, he would have to fall in love with me.",0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,16,0.5,0.5,0.06,0.474117647,0.106715675,Smash my car.,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_5
+joy_5,17,0.5,0.5,0.06,0.475555556,0.103708995,Smash my car.,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_5
+joy_5,18,0.5,0.5,0.06,0.476842105,0.100942923,Smash my car.,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,19,0.5,0.5,0.06,0.478,0.098386991,Smash my car.,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,20,0.5,0.5,0.06,0.479047619,0.096015872,Smash my car.,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,21,0.5,0.5,0.06,0.48,0.093808315,Smash my car.,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,22,0.5,0.5,0.06,0.480869565,0.091746342,Smash my car.,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,23,0.5,0.5,0.06,0.481666667,0.089814624,Smash my car.,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,24,0.5,0.5,0.06,0.4824,0.088,Smash my car.,0.001,female,0.001,0,0,0,0.001,0.995,0.004,0,happy,Happy,1,joy_5
+joy_5,25,0.5,0.5,0.06,0.483076923,0.086291099,Smash my car.,0,female,0,0,0,0.001,0,0.877,0.003,0.118,happy,Neutral,0.5,joy_5
+joy_5,26,0.5,0.5,0.06,0.483703704,0.084678039,Smash my car.,0,female,0.001,0,0,0.001,0,0.648,0,0.35,happy,Neutral,0.5,joy_5
+joy_5,27,0.5,0.5,0.06,0.484285714,0.083152184,Smash my car.,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,28,0.5,0.5,0.06,0.484827586,0.081705949,Smash my car.,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,29,0.5,0.5,0.06,0.485333333,0.080332642,Smash my car.,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,30,0.5,0.5,0.06,0.485806452,0.079026333,Smash my car.,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_5
+joy_5,31,0.5,0.5,0.06,0.48625,0.077781746,Smash my car.,0.982,female,0.001,0,0,0,0.982,0.013,0.003,0.001,happy,Neutral,0.5,joy_5
+joy_5,32,0.5,0.5,0.06,0.486666667,0.076594169,Smash my car.,0.134,female,0.001,0,0,0,0.134,0.796,0.004,0.064,happy,Happy,1,joy_5
+joy_5,33,0.5,0.5,0.06,0.487058824,0.075459377,Smash my car.,0.96,female,0,0,0,0,0.96,0.001,0,0.039,happy,Happy,1,joy_5
+joy_5,34,0,0.5,0,0.473142857,0.110925821,Smash my car.,0.124,female,0.002,0.001,0.003,0.004,0.124,0.243,0.01,0.613,happy,Happy,1,joy_5
+joy_5,35,0.5,0.5,0,0.473888889,0.109421277,The man who may be bloody hell fell in love.,0.798,female,0,0,0,0,0.798,0.015,0.001,0.185,happy,Happy,1,joy_5
+joy_5,36,0.5,0.5,0,0.474594595,0.107976196,The man who may be bloody hell fell in love.,0.193,female,0,0,0,0,0.193,0.806,0.001,0,happy,Neutral,0.5,joy_5
+joy_5,37,0.5,0.5,0,0.475263158,0.106586771,The man who may be bloody hell fell in love.,0.758,female,0.001,0,0,0,0.758,0.221,0.019,0,happy,Neutral,0.5,joy_5
+joy_5,38,0.5,0.5,0,0.475897436,0.105249527,The man who may be bloody hell fell in love.,0.157,female,0.004,0,0.003,0.06,0.157,0.291,0.211,0.273,happy,Neutral,0.5,joy_5
+joy_5,39,0.5,0.5,0,0.4765,0.103961285,The man who may be bloody hell fell in love.,0.003,female,0.006,0.002,0.002,0.017,0.003,0.68,0.002,0.289,happy,Happy,1,joy_5
+joy_5,40,0.5,0.5,0,0.477073171,0.102719129,The man who may be bloody hell fell in love.,0.995,female,0.002,0,0.001,0,0.995,0.001,0.002,0,happy,Happy,1,joy_5
+joy_5,41,0.5,0.5,0,0.477619048,0.101520382,The man who may be bloody hell fell in love.,0.996,female,0.002,0,0.001,0,0.996,0.001,0,0,happy,Happy,1,joy_5
+joy_5,42,0.5,0.5,0,0.478139535,0.100362576,The man who may be bloody hell fell in love.,0.891,female,0.087,0.001,0.003,0,0.891,0.016,0.001,0.001,happy,Happy,1,joy_5
+joy_5,43,0.5,0.5,0,0.478636364,0.099243438,The man who may be bloody hell fell in love.,0.007,female,0.007,0,0,0,0.007,0.972,0.002,0.011,happy,Neutral,0.5,joy_5
+joy_5,44,0.5,0.5,0,0.479111111,0.098160866,The man who may be bloody hell fell in love.,0.003,female,0.011,0,0.003,0.009,0.003,0.784,0.022,0.169,happy,Neutral,0.5,joy_5
+joy_5,45,0.5,0.5,0,0.479565217,0.097112913,The man who may be bloody hell fell in love.,0,female,0,0,0,0.001,0,0.724,0.001,0.274,happy,Neutral,0.5,joy_5
+joy_5,46,0.09,0.5,0,0.471276596,0.111601329,The man who may be bloody hell fell in love.,0.001,female,0,0,0,0.001,0.001,0.986,0,0.012,happy,Happy,1,joy_5
+joy_5,47,0.09,0.5,0,0.463333333,0.12336304, ,0.102,female,0.001,0.001,0,0,0.102,0.816,0.079,0,happy,Happy,1,joy_5
+joy_7,0,0.5,0.5,0.5,0.5,0,0,0.885,female,0,0,0,0,0.885,0,0,0.115,happy,Happy,1,joy_7
+joy_7,1,0.5,0.5,0.5,0.5,0,0,0.998,female,0,0,0,0,0.998,0,0,0.002,happy,Happy,1,joy_7
+joy_7,2,0.12,0.5,0.12,0.373333333,0.219393102,Not long hair late at night.,0.998,female,0,0,0,0,0.998,0,0,0.002,happy,Happy,1,joy_7
+joy_7,3,0,0.5,0,0.28,0.258714772, ,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_7
+joy_7,4,0,0.5,0,0.224,0.256670996, ,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_7
+joy_7,5,0,0.5,0,0.186666667,0.247116707, ,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_7
+joy_7,6,0,0.5,0,0.16,0.236361305, ,0.997,female,0,0,0,0,0.997,0,0,0.003,happy,Happy,1,joy_7
+joy_7,7,0,0.5,0,0.14,0.226021491, ,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_7
+joy_8,0,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,1,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,2,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,3,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,4,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,5,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,6,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,7,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,8,0.5,0.5,0.5,0.5,0,0,0.001,male,0.001,0,0,0.001,0.001,0.785,0.001,0.209,happy,Neutral,0.5,joy_8
+joy_8,9,0.5,0.5,0.5,0.5,0,0,0.052,female,0,0.001,0,0,0.052,0.942,0.002,0.003,happy,Neutral,0.5,joy_8
+joy_8,10,0.5,0.5,0.5,0.5,0,0,0.425,female,0,0,0,0,0.425,0.574,0,0,happy,Neutral,0.5,joy_8
+joy_8,11,0.5,0.5,0.5,0.5,0,0,0.418,female,0,0,0,0,0.418,0.579,0,0.002,happy,Neutral,0.5,joy_8
+joy_8,12,0.5,0.5,0.5,0.5,0,0,0,male,0,0,0,0,0,0.999,0.001,0,happy,Neutral,0.5,joy_8
+joy_8,13,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,14,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,15,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,16,0.5,0.5,0.5,0.5,0,0,0.92,female,0,0,0,0,0.92,0.08,0,0,happy,Neutral,0.5,joy_8
+joy_8,17,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,18,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,19,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,20,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,21,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,22,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,23,0.5,0.5,0.5,0.5,0,0,0.984,female,0,0.001,0,0,0.984,0.015,0,0,happy,Happy,1,joy_8
+joy_8,24,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,25,0.5,0.5,0.5,0.5,0,0,1,male,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,26,0.5,0.5,0.5,0.5,0,0,0.868,female,0,0.002,0,0,0.868,0.13,0,0,happy,Happy,1,joy_8
+joy_8,27,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,28,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,29,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,30,0.5,0.5,0.5,0.5,0,0,1,male,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,31,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,32,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,33,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,34,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,35,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_8
+joy_8,36,0.5,0.5,0.5,0.5,0,0,0.028,male,0,0.001,0,0,0.028,0.969,0.002,0,happy,Happy,1,joy_8
+joy_8,37,0.5,0.5,0.5,0.5,0,0,0.998,male,0.001,0,0,0,0.998,0,0,0,happy,Happy,1,joy_8
+joy_8,38,0.5,0.5,0.5,0.5,0,0,0.999,male,0.001,0,0,0,0.999,0,0,0,happy,Happy,1,joy_8
+joy_8,39,0.5,0.5,0.5,0.5,0,0,0.999,female,0.001,0,0,0,0.999,0,0,0,happy,Happy,1,joy_8
+joy_8,40,0.5,0.5,0.5,0.5,0,0,0.843,male,0.033,0,0.001,0,0.843,0,0,0.123,happy,Happy,1,joy_8
+joy_8,41,0.5,0.5,0.5,0.5,0,0,0.949,male,0,0.007,0,0,0.949,0.044,0,0,happy,Happy,1,joy_8
+joy_8,42,0.5,0.5,0.5,0.5,0,0,0.959,male,0,0.001,0,0,0.959,0.04,0,0,happy,Happy,1,joy_8
+joy_8,43,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,44,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,45,0.5,0.5,0.5,0.5,0,0,0.75,female,0.231,0,0,0.009,0.75,0.001,0,0.007,happy,Happy,1,joy_8
+joy_8,46,0.5,0.5,0.5,0.5,0,0,0.998,female,0,0,0,0,0.998,0,0.002,0,happy,Happy,1,joy_8
+joy_8,47,0.5,0.5,0.5,0.5,0,0,0.785,male,0.128,0.001,0.07,0,0.785,0.011,0.004,0,happy,Happy,1,joy_8
+joy_8,48,0.5,0.5,0.5,0.5,0,0,0.997,male,0,0,0,0,0.997,0,0,0.003,happy,Happy,1,joy_8
+joy_8,49,0.5,0.5,0.5,0.5,0,0,0.966,male,0.011,0,0.023,0,0.966,0,0,0,happy,Happy,1,joy_8
+joy_8,50,0.5,0.5,0.5,0.5,0,0,1,male,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,51,0.5,0.5,0.5,0.5,0,0,0.872,male,0.041,0,0,0,0.872,0,0,0.087,happy,Happy,1,joy_8
+joy_8,52,0.5,0.5,0.5,0.5,0,0,0.852,female,0.119,0,0,0.011,0.852,0,0,0.018,happy,Happy,1,joy_8
+joy_8,53,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,54,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,55,0.5,0.5,0.5,0.5,0,0,1,male,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,56,0.5,0.5,0.5,0.5,0,0,1,male,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,57,0.5,0.5,0.5,0.5,0,0,0.607,male,0,0,0,0,0.607,0.392,0,0,happy,Happy,1,joy_8
+joy_8,58,0.5,0.5,0.5,0.5,0,0,1,male,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,59,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,60,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,61,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,62,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,63,0.5,0.5,0.5,0.5,0,0,1,male,0,0,0,0,1,0,0,0,happy,Happy,1,joy_8
+joy_8,64,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,65,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,66,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,67,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,68,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,69,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,70,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,71,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,72,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,73,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,74,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,75,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,76,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,77,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,78,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,79,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,80,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,81,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,82,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,83,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,84,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,85,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,86,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,87,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,88,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,89,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,90,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,91,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,92,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,93,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,94,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,95,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,96,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,97,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,98,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,99,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,100,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,101,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,102,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,103,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,104,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,105,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,106,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,107,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,108,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,109,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,110,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,111,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,112,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,113,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,114,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,115,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,116,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,117,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,118,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,119,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,120,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,121,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,122,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,123,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,124,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,125,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,126,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,127,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,128,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,129,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,130,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,131,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,132,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,133,0.5,0.5,0.5,0.5,0,0,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,134,0.83,0.83,0.5,0.502444444,0.028401878,"I thought joy, I saw happy NIS. I saw people celebrating like it's just the type of energy that is transmitted between people when someone else is like translating a lot of positive energie. It kind of lift you up a little too. It made me feel like I wanted to be on more. I wanted to be one of those spaces. It made me feel joyful inside. I think that joy and positive emotions and happiness. They keep us going from day to day.",0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,135,0.5,0.83,0.5,0.502426471,0.028297267,Did you feel like this?,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,136,0.16,0.83,0.16,0.499927007,0.040629176,Did you feel like this?,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,137,0.16,0.83,0.16,0.497463768,0.049759445, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,138,0.16,0.83,0.16,0.495035971,0.057248177, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,139,0.16,0.83,0.16,0.492642857,0.063683239, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,140,0.16,0.83,0.16,0.490283688,0.069363878, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,141,0.16,0.83,0.16,0.487957746,0.074467745, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,142,0.16,0.83,0.16,0.485664336,0.0791109, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,143,0.16,0.83,0.16,0.483402778,0.08337432, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,144,0.16,0.83,0.16,0.481172414,0.087317297, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,145,0.16,0.83,0.16,0.478972603,0.090984875, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,146,0.16,0.83,0.16,0.476802721,0.094412287, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,147,0.16,0.83,0.16,0.474662162,0.09762775, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,148,0.16,0.83,0.16,0.472550336,0.100654308, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,149,0.16,0.83,0.16,0.470466667,0.103511091, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,150,0.16,0.83,0.16,0.468410596,0.106214203, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,151,0.16,0.83,0.16,0.466381579,0.108777368, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,152,0.16,0.83,0.16,0.464379085,0.111212398, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,153,0.16,0.83,0.16,0.462402597,0.11352956, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,154,0.16,0.83,0.16,0.460451613,0.115737847, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,155,0.16,0.83,0.16,0.458525641,0.117845194, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,156,0.16,0.83,0.16,0.456624204,0.119858646, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,157,0.16,0.83,0.16,0.454746835,0.121784499, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,158,0.16,0.83,0.16,0.452893082,0.123628404, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,159,0.16,0.83,0.16,0.4510625,0.125395459, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_8,160,0.16,0.83,0.16,0.449254658,0.127090287, ,0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_8
+joy_10,0,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,1,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,2,0.5,0.5,0.5,0.5,0,0,0.821,female,0,0.001,0,0,0.821,0.178,0,0,happy,Happy,1,joy_10
+joy_10,3,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,4,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,5,0.5,0.5,0.5,0.5,0,0,0.746,female,0,0.001,0,0,0.746,0.253,0,0,happy,Happy,1,joy_10
+joy_10,6,0.5,0.5,0.5,0.5,0,0,0.978,female,0,0,0,0,0.978,0.022,0,0,happy,Happy,1,joy_10
+joy_10,7,0.5,0.5,0.5,0.5,0,0,0.731,female,0,0.001,0,0,0.731,0.264,0.003,0.001,happy,Happy,1,joy_10
+joy_10,8,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,9,0.5,0.5,0.5,0.5,0,0,0.975,female,0.002,0.001,0.001,0,0.975,0.018,0.003,0.002,happy,Happy,1,joy_10
+joy_10,10,0.5,0.5,0.5,0.5,0,0,0.861,female,0,0.001,0,0,0.861,0.138,0,0,happy,Happy,1,joy_10
+joy_10,11,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,12,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,13,0.5,0.5,0.5,0.5,0,0,0.562,female,0,0.002,0,0,0.562,0.435,0,0.001,happy,Happy,1,joy_10
+joy_10,14,0.5,0.5,0.5,0.5,0,0,0.113,female,0,0.001,0,0,0.113,0.882,0.002,0,happy,Happy,1,joy_10
+joy_10,15,0.5,0.5,0.5,0.5,0,0,0.978,female,0,0.001,0,0,0.978,0.021,0,0,happy,Happy,1,joy_10
+joy_10,16,0.5,0.5,0.5,0.5,0,0,0.812,female,0,0,0,0,0.812,0.186,0,0.002,happy,Happy,1,joy_10
+joy_10,17,0.5,0.5,0.5,0.5,0,0,0.676,female,0,0.001,0,0,0.676,0.318,0,0.005,happy,Happy,1,joy_10
+joy_10,18,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,19,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,20,0.5,0.5,0.5,0.5,0,0,0.812,female,0,0.001,0,0,0.812,0.185,0.001,0,happy,Happy,1,joy_10
+joy_10,21,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,22,0.5,0.5,0.5,0.5,0,0,1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,23,0.5,0.5,0.5,0.5,0,0,0.662,female,0,0.002,0,0,0.662,0.336,0,0,happy,Happy,1,joy_10
+joy_10,24,0.5,0.5,0.5,0.5,0,0,0.314,female,0.014,0.003,0.004,0,0.314,0.662,0.003,0.001,happy,Happy,1,joy_10
+joy_10,25,0.5,0.5,0.5,0.5,0,0,0.991,female,0,0,0,0,0.991,0.008,0,0,happy,Happy,1,joy_10
+joy_10,26,0.5,0.5,0.5,0.5,0,0,0.996,female,0,0,0,0,0.996,0.003,0,0,happy,Happy,1,joy_10
+joy_10,27,0.78,0.78,0.5,0.51,0.052915026,"A flicker this is Rachel or happily MIT and night. You are in for a real treat because I am bored and one of the things that I like to do when I'm bored is to play the piano, so because I've only got around 90 seconds or so you're going to get the intro line to a song that I think has a really beautiful melody, so bonus points to you if you know what this is OK.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,28,0.5,0.78,0.5,0.509655172,0.051994695,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,29,0.5,0.78,0.5,0.509333333,0.051120772,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,30,0.5,0.78,0.5,0.509032258,0.050289485,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,31,0.5,0.78,0.5,0.50875,0.049497475,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,32,0.5,0.78,0.5,0.508484848,0.048741744,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,33,0.5,0.78,0.5,0.508235294,0.048019604,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,34,0.5,0.78,0.5,0.508,0.047328638,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,35,0.5,0.78,0.5,0.507777778,0.046666667,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,36,0.5,0.78,0.5,0.507567568,0.046031716,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,37,0.5,0.78,0.5,0.507368421,0.045421998,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,38,0.5,0.78,0.5,0.507179487,0.044835883,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,39,0.5,0.78,0.5,0.507,0.044271887,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,40,0.5,0.78,0.5,0.506829268,0.043728653,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,41,0.5,0.78,0.5,0.506666667,0.043204938,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,42,0.5,0.78,0.5,0.506511628,0.0426996,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,43,0.5,0.78,0.5,0.506363636,0.042211588,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,44,0.5,0.78,0.5,0.506222222,0.041739936,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,45,0.5,0.78,0.5,0.506086957,0.041283748,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,46,0.5,0.78,0.5,0.505957447,0.040842198,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,47,0.5,0.78,0.5,0.505833333,0.040414519,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,48,0.5,0.78,0.5,0.505714286,0.04,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,49,0.5,0.78,0.5,0.5056,0.03959798,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,50,0.5,0.78,0.5,0.505490196,0.039207842,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,51,0.5,0.78,0.5,0.505384615,0.038829014,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,52,0.5,0.78,0.5,0.505283019,0.038460958,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,53,0.5,0.78,0.5,0.505185185,0.038103174,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,54,0.5,0.78,0.5,0.505090909,0.037755192,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,55,0.5,0.78,0.5,0.505,0.037416574,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,56,0.5,0.78,0.5,0.504912281,0.037086906,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,57,0.5,0.78,0.5,0.504827586,0.036765801,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,58,0.5,0.78,0.5,0.504745763,0.036452895,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,59,0.5,0.78,0.5,0.504666667,0.036147845,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,60,0.5,0.78,0.5,0.504590164,0.035850326,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,61,0.5,0.78,0.5,0.504516129,0.035560036,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",1,female,0,0,0,0,1,0,0,0,happy,Neutral,0.5,joy_10
+joy_10,62,0.5,0.78,0.5,0.504444444,0.035276684,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,63,0.5,0.78,0.5,0.504375,0.035,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,64,0.5,0.78,0.5,0.504307692,0.034729726,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,65,0.5,0.78,0.5,0.504242424,0.034465617,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,66,0.5,0.78,0.5,0.504179104,0.034207444,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",1,female,0,0,0,0,1,0,0,0,happy,Happy,1,joy_10
+joy_10,67,0.5,0.78,0.5,0.504117647,0.033954988,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0,0,0,0,0,0,0,0,0,0,happy,Happy,1,joy_10
+joy_10,68,0.82,0.82,0.5,0.508695652,0.05081434,"It's not that exciting, but it gets me through my day so that's all for now take care. Bye.",0.996,female,0,0.001,0,0,0.996,0.003,0,0,happy,Happy,1,joy_10
+sad_3,0,0,0,0,0,0,0,0,female,0,0,0,0,0,0.92,0.08,0,sad,Neutral,0.5,sad_3
+sad_3,1,0,0,0,0,0,0,0,female,0,0,0,0,0,0.976,0.024,0,sad,Neutral,0.5,sad_3
+sad_3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5,sad_3
+sad_3,3,0,0,0,0,0,0,0,female,0,0,0,0,0,0.971,0.029,0,sad,Neutral,0.5,sad_3
+sad_3,4,0,0,0,0,0,0,0,female,0,0,0,0,0,0.943,0.057,0,sad,Neutral,0.5,sad_3
+sad_3,5,0,0,0,0,0,0,0,female,0,0,0,0,0,0.958,0.042,0,sad,Neutral,0.5,sad_3
+sad_3,6,0,0,0,0,0,0,0,female,0,0,0,0,0,0.964,0.036,0,sad,Sad,0,sad_3
+sad_3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sad,Sad,0,sad_3
+sad_3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sad,Sad,0,sad_3
+sad_3,9,0,0,0,0,0,0,0,female,0,0,0,0,0,0.576,0.424,0,sad,Sad,0,sad_3
+sad_3,10,0,0,0,0,0,0,0,female,0,0,0,0,0,0.685,0.315,0,sad,Sad,0,sad_3
+sad_3,11,0,0,0,0,0,0,0,female,0,0,0,0,0,0.687,0.312,0,sad,Sad,0,sad_3
+sad_3,12,0,0,0,0,0,0,0,female,0,0,0,0,0,0.866,0.116,0.018,sad,Sad,0,sad_3
+sad_3,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5,sad_3
+sad_3,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5,sad_3
+sad_3,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5,sad_3
+sad_3,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5,sad_3
+sad_3,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5,sad_3
+sad_3,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5,sad_3
+sad_3,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5,sad_3
+sad_4,0,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0,0,0,0.001,0.832,0.166,0,sad,Sad,0,sad_4
+sad_4,1,0.5,0.5,0.5,0.5,0,0,0.044,female,0.001,0.014,0.035,0.003,0.044,0.085,0.818,0,sad,Sad,0,sad_4
+sad_4,2,0.5,0.5,0.5,0.5,0,0,0,female,0,0.001,0,0,0,0.397,0.602,0,sad,Sad,0,sad_4
+sad_4,3,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.004,0,0,0.001,0.76,0.235,0,sad,Sad,0,sad_4
+sad_4,4,0.5,0.5,0.5,0.5,0,0,0.009,female,0,0.015,0,0,0.009,0.887,0.088,0,sad,Sad,0,sad_4
+sad_4,5,0.5,0.5,0.5,0.5,0,0,0.049,female,0,0.002,0,0.001,0.049,0.514,0.433,0.001,sad,Sad,0,sad_4
+sad_4,6,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.003,0,0,0.001,0.488,0.509,0,sad,Sad,0,sad_4
+sad_4,7,0.5,0.5,0.5,0.5,0,0,0.01,female,0,0,0,0,0.01,0.909,0.075,0.005,sad,Sad,0,sad_4
+sad_4,8,0.5,0.5,0.5,0.5,0,0,0.014,female,0,0,0,0,0.014,0.025,0.96,0,sad,Sad,0,sad_4
+sad_4,9,0.5,0.5,0.5,0.5,0,0,0.001,female,0,0.001,0,0,0.001,0.781,0.217,0,sad,Sad,0,sad_4
+sad_4,10,0.5,0.5,0.5,0.5,0,"And in the last 12 years we bought it 4 days before it was about to be closed down, we got it on October 27th 2000.",0.017,female,0,0.023,0.005,0,0.017,0.867,0.088,0,sad,Sad,0,sad_4
+sad_4,11,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.06,female,0,0.002,0,0,0.06,0.932,0.006,0,sad,Sad,0,sad_4
+sad_4,12,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.007,female,0,0,0,0,0.007,0.633,0.358,0.002,sad,Sad,0,sad_4
+sad_4,13,0.5,0.5,0.5,0.5,0,So you own is at that time were about to walk out.,0.047,female,0,0,0,0,0.047,0.001,0.952,0,sad,Sad,0,sad_4
+sad_4,14,0.27,0.5,0.27,0.484666667,0.059385745,So you own is at that time were about to walk out.,0.042,female,0,0.002,0.005,0,0.042,0.553,0.397,0,sad,Sad,0,sad_4
+sad_4,15,0.5,0.5,0.27,0.485625,0.0575,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.005,0,0,0.002,0.684,0.309,0,sad,Sad,0,sad_4
+sad_4,16,0.5,0.5,0.27,0.486470588,0.055783194,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.005,female,0,0.003,0,0,0.005,0.949,0.043,0,sad,Sad,0,sad_4
+sad_4,17,0.5,0.5,0.27,0.487222222,0.05421152,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.006,female,0,0.003,0,0,0.006,0.749,0.241,0,sad,Sad,0,sad_4
+sad_4,18,0.5,0.5,0.27,0.487894737,0.052765619,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.002,female,0,0.001,0,0.001,0.002,0.499,0.497,0,sad,Sad,0,sad_4
+sad_4,19,0.5,0.5,0.27,0.4885,0.051429563,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.133,female,0,0,0,0.001,0.133,0.018,0.848,0,sad,Sad,0,sad_4
+sad_4,20,0.5,0.5,0.27,0.489047619,0.050190115,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.1,female,0,0,0,0.001,0.1,0.009,0.888,0,sad,Sad,0,sad_4
+sad_4,21,0.78,0.78,0.27,0.502272727,0.079037774,"On October 31st if nobody bought it and we bought it, we've got a life blood sweat and tears into this place.",0.001,female,0.001,0,0,0.001,0.001,0.906,0.089,0.003,sad,Sad,0,sad_4
+sad_4,22,0.5,0.78,0.27,0.502173913,0.077222025,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0.184,0.815,0,sad,Sad,0,sad_4
+sad_4,23,0.5,0.78,0.27,0.502083333,0.075525934,To make it a nice place for our customers to come.,0.002,female,0,0,0,0,0.002,0.001,0.996,0,sad,Sad,0,sad_4
+sad_4,24,0.95,0.95,0.27,0.52,0.116153634,To make it a nice place for our customers to come.,0,female,0,0,0,0,0,0,1,0,sad,Sad,0,sad_4
+sad_4,25,0.95,0.95,0.27,0.536538462,0.14164582, ,0,female,0,0,0,0,0,0,1,0,sad,Neutral,0.5,sad_4
+sad_4,26,0.95,0.95,0.27,0.551851852,0.160072989, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5,sad_4
+sad_4,27,0.95,0.95,0.27,0.566071429,0.174171888, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5,sad_4
+sad_4,28,0.95,0.95,0.27,0.579310345,0.185297657, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5,sad_4
+sad_4,29,0.95,0.95,0.27,0.591666667,0.194246259, ,0,0,0,0,0,0,0,0,0,0,sad,Neutral,0.5,sad_4
